@@ -1,7 +1,7 @@
 [
   { "name": "Apfel", "kcal": 52, "p": 0.3, "c": 13.8, "f": 0.2 },
   { "name": "Banane", "kcal": 89, "p": 1.1, "c": 22.8, "f": 0.3 },
-  { "name": "Magerquark", "kcal": 68, "p": 12.0, "c": 4.1, "f": 0.2 }
+  { "name": "Magerquark", "kcal": 68, "p": 12.0, "c": 4.1, "f": 0.2 },
  {
     "name": "Erdbeere",
     "kcal": 32,
