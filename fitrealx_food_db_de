@@ -6651,6 +6651,12 @@
   { "name": "Griechischer Salat", "kcal": 120, "p": 4.0, "c": 5.0, "f": 9.0, "serving": 250.0 },
   { "name": "Caesar Salad", "kcal": 180, "p": 7.0, "c": 8.0, "f": 13.0, "serving": 250.0 },
   { "name": "Gemischter Salat", "kcal": 35, "p": 1.5, "c": 4.0, "f": 1.0, "serving": 250.0 },
+  { "name": "Burek Käse", "kcal": 320, "p": 10.0, "c": 25.0, "f": 20.0, "serving": 200.0 },
+  { "name": "Burek Fleisch", "kcal": 340, "p": 12.0, "c": 24.0, "f": 22.0, "serving": 200.0 },
+  { "name": "Pljeskavica", "kcal": 245, "p": 16.0, "c": 4.0, "f": 18.0, "serving": 250.0 },
+  { "name": "Raznjici", "kcal": 185, "p": 22.0, "c": 1.0, "f": 10.0, "serving": 250.0 },
+  { "name": "Punjena Pljeskavica", "kcal": 280, "p": 18.0, "c": 3.0, "f": 22.0, "serving": 300.0 },
+
 
 
   { "name": "Ramen Tonkotsu", "kcal": 130, "p": 6.0, "c": 14.0, "f": 5.0, "serving": 500.0 },
@@ -6771,12 +6777,7 @@
   { "name": "Lahmacun mit Dönerfleisch", "kcal": 240, "p": 13.0, "c": 25.0, "f": 10.0, "serving": 300.0 },
   { "name": "Sucuk Toast", "kcal": 290, "p": 12.0, "c": 26.0, "f": 15.0, "serving": 180.0 },
 
-  { "name": "Burek Käse", "kcal": 320, "p": 10.0, "c": 25.0, "f": 20.0, "serving": 200.0 },
-  { "name": "Burek Fleisch", "kcal": 340, "p": 12.0, "c": 24.0, "f": 22.0, "serving": 200.0 },
-  { "name": "Pljeskavica", "kcal": 245, "p": 16.0, "c": 4.0, "f": 18.0, "serving": 250.0 },
-  { "name": "Raznjici", "kcal": 185, "p": 22.0, "c": 1.0, "f": 10.0, "serving": 250.0 },
-  { "name": "Punjena Pljeskavica", "kcal": 280, "p": 18.0, "c": 3.0, "f": 22.0, "serving": 300.0 },
-
+  
   { "name": "Berliner", "kcal": 330, "p": 5.0, "c": 43.0, "f": 15.0, "serving": 80.0 },
   { "name": "Nussschnecke", "kcal": 430, "p": 7.0, "c": 45.0, "f": 24.0, "serving": 110.0 },
   { "name": "Käsestange", "kcal": 380, "p": 12.0, "c": 38.0, "f": 18.0, "serving": 100.0 },
