@@ -6647,11 +6647,7 @@
   { "name": "Sushi California Roll", "kcal": 145, "p": 5.0, "c": 25.0, "f": 3.0, "serving": 200.0 },
   { "name": "Sushi Philadelphia Roll", "kcal": 180, "p": 7.0, "c": 23.0, "f": 7.0, "serving": 200.0 },
 
-{ "name": "Wurstsalat Milo2", "kcal": 180, "p": 7.0, "c": 23.0, "f": 7.0, "serving": 200.0 },
- { "name": "Wurstsalat Milo", "kcal": 210, "p": 12.0, "c": 4.0, "f": 16.0, "serving": 250.0 },
 
-{ "name": "Ramen Misozwei", "kcal": 115, "p": 5.0, "c": 14.0, "f": 4.0, "serving": 500.0 },
-{ "name": "Wurstsalat Milo3", "kcal": 115, "p": 5.0, "c": 14.0, "f": 4.0, "serving": 500.0 },
 
   { "name": "Wurstsalat", "kcal": 210, "p": 12.0, "c": 4.0, "f": 16.0, "serving": 250.0 },
   { "name": "Griechischer Salat", "kcal": 120, "p": 4.0, "c": 5.0, "f": 9.0, "serving": 250.0 },
