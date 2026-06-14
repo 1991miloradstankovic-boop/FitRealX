@@ -6648,6 +6648,285 @@
   { "name": "Sushi Philadelphia Roll", "kcal": 180, "p": 7.0, "c": 23.0, "f": 7.0, "serving": 200.0 },
 
   { "name": "Ramen Tonkotsu", "kcal": 130, "p": 6.0, "c": 14.0, "f": 5.0, "serving": 500.0 },
-  { "name": "Ramen Miso", "kcal": 115, "p": 5.0, "c": 14.0, "f": 4.0, "serving": 500.0 }
+  { "name": "Ramen Miso", "kcal": 115, "p": 5.0, "c": 14.0, "f": 4.0, "serving": 500.0 },
+
+ {
+    "name": "Fruchtsaftschorle",
+    "kcal": 28,
+    "p": 0.1,
+    "c": 6.8,
+    "f": 0.0,
+    "serving": 250.0
+  },
+  {
+    "name": "Bitter Lemon",
+    "kcal": 36,
+    "p": 0.0,
+    "c": 8.9,
+    "f": 0.0,
+    "serving": 200.0
+  },
+  {
+    "name": "Espresso Doppio",
+    "kcal": 4,
+    "p": 0.2,
+    "c": 0.0,
+    "f": 0.0,
+    "serving": 60.0
+  },
+  {
+    "name": "Espresso Macchiato",
+    "kcal": 12,
+    "p": 0.7,
+    "c": 1.0,
+    "f": 0.5,
+    "serving": 40.0
+  },
+  {
+    "name": "Hafermilch Cappuccino",
+    "kcal": 42,
+    "p": 1.0,
+    "c": 6.0,
+    "f": 1.5,
+    "serving": 200.0
+  },
+  {
+    "name": "Hafermilch Kaffee",
+    "kcal": 28,
+    "p": 0.7,
+    "c": 4.0,
+    "f": 1.0,
+    "serving": 200.0
+  },
+  {
+    "name": "Helles Bier",
+    "kcal": 43,
+    "p": 0.5,
+    "c": 3.2,
+    "f": 0.0,
+    "serving": 500.0
+  },
+  {
+    "name": "Dunkles Bier",
+    "kcal": 48,
+    "p": 0.5,
+    "c": 4.0,
+    "f": 0.0,
+    "serving": 500.0
+  },
+  {
+    "name": "Weißbier",
+    "kcal": 52,
+    "p": 0.6,
+    "c": 3.8,
+    "f": 0.0,
+    "serving": 500.0
+  },
+  {
+    "name": "Dunkles Weißbier",
+    "kcal": 55,
+    "p": 0.6,
+    "c": 4.2,
+    "f": 0.0,
+    "serving": 500.0
+  },
+  {
+    "name": "Leichtes Weißbier",
+    "kcal": 38,
+    "p": 0.5,
+    "c": 2.8,
+    "f": 0.0,
+    "serving": 500.0
+  },
+  {
+    "name": "Alkoholfreies Helles",
+    "kcal": 26,
+    "p": 0.4,
+    "c": 5.8,
+    "f": 0.0,
+    "serving": 500.0
+  },
+  {
+    "name": "Pinot Grigio",
+    "kcal": 79,
+    "p": 0.1,
+    "c": 2.7,
+    "f": 0.0,
+    "serving": 200.0
+  },
+  {
+    "name": "Chardonnay",
+    "kcal": 82,
+    "p": 0.1,
+    "c": 2.8,
+    "f": 0.0,
+    "serving": 200.0
+  },
+  {
+    "name": "Roséwein",
+    "kcal": 83,
+    "p": 0.1,
+    "c": 2.7,
+    "f": 0.0,
+    "serving": 200.0
+  },
+  {
+    "name": "Merlot",
+    "kcal": 85,
+    "p": 0.1,
+    "c": 2.6,
+    "f": 0.0,
+    "serving": 200.0
+  },
+  {
+    "name": "Cabernet Sauvignon",
+    "kcal": 84,
+    "p": 0.1,
+    "c": 2.6,
+    "f": 0.0,
+    "serving": 200.0
+  },
+  {
+    "name": "Primitivo",
+    "kcal": 86,
+    "p": 0.1,
+    "c": 2.8,
+    "f": 0.0,
+    "serving": 200.0
+  },
+ { "name": "Couscous Salat", "kcal": 125, "p": 3.0, "c": 20.0, "f": 3.5, "serving": 250.0 },
+  { "name": "Wurstsalat", "kcal": 210, "p": 12.0, "c": 4.0, "f": 16.0, "serving": 250.0 },
+  { "name": "Griechischer Salat", "kcal": 120, "p": 4.0, "c": 5.0, "f": 9.0, "serving": 250.0 },
+  { "name": "Caesar Salad", "kcal": 180, "p": 7.0, "c": 8.0, "f": 13.0, "serving": 250.0 },
+  { "name": "Gemischter Salat", "kcal": 35, "p": 1.5, "c": 4.0, "f": 1.0, "serving": 250.0 },
+
+  { "name": "Maultaschen", "kcal": 240, "p": 9.0, "c": 28.0, "f": 10.0, "serving": 300.0 },
+  { "name": "Schupfnudeln", "kcal": 170, "p": 3.5, "c": 33.0, "f": 2.5, "serving": 250.0 },
+  { "name": "Semmelknödel", "kcal": 165, "p": 5.0, "c": 30.0, "f": 2.5, "serving": 150.0 },
+  { "name": "Kartoffelknödel", "kcal": 145, "p": 2.5, "c": 31.0, "f": 0.2, "serving": 150.0 },
+  { "name": "Serviettenknödel", "kcal": 180, "p": 5.5, "c": 31.0, "f": 3.0, "serving": 150.0 },
+
+  { "name": "Krautwickel", "kcal": 120, "p": 10.0, "c": 5.0, "f": 6.0, "serving": 300.0 },
+  { "name": "Königsberger Klopse", "kcal": 175, "p": 12.0, "c": 4.0, "f": 12.0, "serving": 300.0 },
+  { "name": "Roulade", "kcal": 185, "p": 19.0, "c": 2.0, "f": 11.0, "serving": 250.0 },
+  { "name": "Leberkäsebrötchen", "kcal": 285, "p": 11.0, "c": 24.0, "f": 15.0, "serving": 180.0 },
+  { "name": "Bratwurstsemmel", "kcal": 310, "p": 12.0, "c": 24.0, "f": 18.0, "serving": 180.0 },
+
+  { "name": "Käsekrainer", "kcal": 330, "p": 13.0, "c": 2.0, "f": 29.0, "serving": 150.0 },
+  { "name": "Weißwurst", "kcal": 295, "p": 11.0, "c": 2.0, "f": 27.0, "serving": 120.0 },
+  { "name": "Nürnberger Rostbratwurst", "kcal": 310, "p": 15.0, "c": 1.0, "f": 27.0, "serving": 100.0 },
+  { "name": "Landjäger", "kcal": 460, "p": 26.0, "c": 1.0, "f": 39.0, "serving": 40.0 },
+  { "name": "Bündnerfleisch", "kcal": 180, "p": 38.0, "c": 0.0, "f": 3.0, "serving": 50.0 },
+
+  { "name": "Frikadellenbrötchen", "kcal": 280, "p": 12.0, "c": 25.0, "f": 14.0, "serving": 180.0 },
+  { "name": "Käsebrötchen", "kcal": 290, "p": 11.0, "c": 34.0, "f": 12.0, "serving": 120.0 },
+  { "name": "Schinkenkäse Croissant", "kcal": 360, "p": 10.0, "c": 30.0, "f": 22.0, "serving": 110.0 },
+  { "name": "Laugenstange Käse", "kcal": 305, "p": 10.0, "c": 43.0, "f": 9.0, "serving": 120.0 },
+  { "name": "Laugenknoten", "kcal": 285, "p": 8.0, "c": 55.0, "f": 2.5, "serving": 90.0 },
+
+  { "name": "Porridge", "kcal": 95, "p": 3.5, "c": 15.0, "f": 2.5, "serving": 250.0 },
+  { "name": "Overnight Oats", "kcal": 115, "p": 5.0, "c": 16.0, "f": 3.5, "serving": 250.0 },
+  { "name": "Protein Pancakes", "kcal": 180, "p": 18.0, "c": 15.0, "f": 4.0, "serving": 150.0 },
+  { "name": "French Toast", "kcal": 240, "p": 8.0, "c": 28.0, "f": 10.0, "serving": 150.0 },
+  { "name": "Rührei", "kcal": 150, "p": 11.0, "c": 1.5, "f": 11.0, "serving": 120.0 },
+
+  { "name": "Spiegelei", "kcal": 165, "p": 12.0, "c": 1.0, "f": 12.5, "serving": 60.0 },
+  { "name": "Omelette", "kcal": 155, "p": 11.0, "c": 2.0, "f": 11.0, "serving": 150.0 },
+  { "name": "Bacon and Eggs", "kcal": 220, "p": 16.0, "c": 1.0, "f": 17.0, "serving": 180.0 },
+  { "name": "Egg Benedict", "kcal": 275, "p": 12.0, "c": 18.0, "f": 17.0, "serving": 220.0 },
+  { "name": "Shakshuka mit Ei", "kcal": 110, "p": 7.0, "c": 5.0, "f": 6.0, "serving": 300.0 },
+
+  { "name": "Wrap Falafel", "kcal": 220, "p": 8.0, "c": 24.0, "f": 10.0, "serving": 300.0 },
+  { "name": "Wrap Veggie", "kcal": 170, "p": 5.0, "c": 24.0, "f": 6.0, "serving": 300.0 },
+  { "name": "Club Sandwich Hähnchen", "kcal": 235, "p": 14.0, "c": 23.0, "f": 9.0, "serving": 250.0 },
+  { "name": "Toast Hawaii", "kcal": 230, "p": 11.0, "c": 21.0, "f": 11.0, "serving": 180.0 },
+  { "name": "Croque Madame", "kcal": 310, "p": 15.0, "c": 25.0, "f": 16.0, "serving": 220.0 },
+
+  { "name": "Kebab Pizza", "kcal": 270, "p": 13.0, "c": 25.0, "f": 13.0, "serving": 350.0 },
+  { "name": "Pizza Diavolo", "kcal": 260, "p": 12.0, "c": 25.0, "f": 12.0, "serving": 350.0 },
+  { "name": "Pizza Vegetaria", "kcal": 215, "p": 9.0, "c": 29.0, "f": 6.0, "serving": 350.0 },
+  { "name": "Pizza Capricciosa", "kcal": 245, "p": 11.0, "c": 27.0, "f": 9.0, "serving": 350.0 },
+  { "name": "Pizza BBQ Chicken", "kcal": 255, "p": 13.0, "c": 26.0, "f": 10.0, "serving": 350.0 },
+
+  { "name": "Tagliatelle Carbonara", "kcal": 210, "p": 8.0, "c": 21.0, "f": 10.0, "serving": 350.0 },
+  { "name": "Penne Arrabiata", "kcal": 135, "p": 4.0, "c": 22.0, "f": 3.5, "serving": 350.0 },
+  { "name": "Penne Alfredo", "kcal": 220, "p": 7.0, "c": 20.0, "f": 12.0, "serving": 350.0 },
+  { "name": "Tortellini Käse", "kcal": 190, "p": 8.0, "c": 28.0, "f": 5.0, "serving": 300.0 },
+  { "name": "Tortellini Schinken", "kcal": 205, "p": 10.0, "c": 27.0, "f": 6.0, "serving": 300.0 },
+
+  { "name": "Gulaschsuppe", "kcal": 85, "p": 6.0, "c": 5.0, "f": 4.0, "serving": 350.0 },
+  { "name": "Kürbissuppe", "kcal": 55, "p": 1.5, "c": 8.0, "f": 2.0, "serving": 300.0 },
+  { "name": "Minestrone", "kcal": 65, "p": 2.5, "c": 10.0, "f": 1.5, "serving": 300.0 },
+  { "name": "Pho", "kcal": 70, "p": 5.0, "c": 8.0, "f": 2.0, "serving": 500.0 },
+  { "name": "Tom Kha Gai", "kcal": 95, "p": 6.0, "c": 4.0, "f": 6.0, "serving": 350.0 },
+
+  { "name": "Baklava", "kcal": 430, "p": 6.0, "c": 45.0, "f": 25.0, "serving": 80.0 },
+  { "name": "Apfelstrudel", "kcal": 240, "p": 3.0, "c": 35.0, "f": 9.0, "serving": 120.0 },
+  { "name": "Kaiserschmarrn", "kcal": 240, "p": 7.0, "c": 32.0, "f": 9.0, "serving": 250.0 },
+  { "name": "Milchreis Zimt Zucker", "kcal": 140, "p": 3.5, "c": 25.0, "f": 3.0, "serving": 250.0 },
+  { "name": "Creme Brulee", "kcal": 280, "p": 4.0, "c": 24.0, "f": 18.0, "serving": 120.0 },
+
+  { "name": "Panna Cotta", "kcal": 260, "p": 3.0, "c": 20.0, "f": 18.0, "serving": 120.0 },
+  { "name": "Mousse au Chocolat", "kcal": 320, "p": 5.0, "c": 25.0, "f": 22.0, "serving": 120.0 },
+  { "name": "Profiteroles", "kcal": 310, "p": 5.0, "c": 30.0, "f": 18.0, "serving": 120.0 },
+  { "name": "Donerbox Pommes", "kcal": 185, "p": 9.0, "c": 17.0, "f": 9.0, "serving": 600.0 },
+  { "name": "Cevapcici im Fladenbrot", "kcal": 240, "p": 12.0, "c": 22.0, "f": 11.0, "serving": 300.0 },
+[
+  { "name": "Big Mac", "kcal": 257, "p": 12.0, "c": 20.0, "f": 14.0, "serving": 220.0 },
+  { "name": "McChicken", "kcal": 253, "p": 11.0, "c": 23.0, "f": 13.0, "serving": 180.0 },
+  { "name": "Filet-O-Fish", "kcal": 270, "p": 11.0, "c": 27.0, "f": 13.0, "serving": 140.0 },
+  { "name": "Royal TS", "kcal": 240, "p": 13.0, "c": 20.0, "f": 12.0, "serving": 250.0 },
+  { "name": "Hamburger Royal Käse", "kcal": 255, "p": 14.0, "c": 20.0, "f": 13.0, "serving": 250.0 },
+
+  { "name": "Whopper", "kcal": 240, "p": 11.0, "c": 20.0, "f": 13.0, "serving": 290.0 },
+  { "name": "Long Chicken", "kcal": 290, "p": 13.0, "c": 27.0, "f": 15.0, "serving": 210.0 },
+  { "name": "Chicken Fries", "kcal": 290, "p": 17.0, "c": 18.0, "f": 17.0, "serving": 150.0 },
+  { "name": "King Nuggets", "kcal": 260, "p": 15.0, "c": 15.0, "f": 15.0, "serving": 100.0 },
+  { "name": "Double Whopper", "kcal": 290, "p": 15.0, "c": 18.0, "f": 18.0, "serving": 350.0 },
+
+  { "name": "Subway Chicken Teriyaki", "kcal": 130, "p": 9.0, "c": 18.0, "f": 2.0, "serving": 250.0 },
+  { "name": "Subway BMT", "kcal": 180, "p": 10.0, "c": 18.0, "f": 8.0, "serving": 250.0 },
+  { "name": "Subway Steak Cheese", "kcal": 170, "p": 12.0, "c": 16.0, "f": 6.0, "serving": 250.0 },
+  { "name": "Subway Tuna", "kcal": 220, "p": 9.0, "c": 17.0, "f": 12.0, "serving": 250.0 },
+  { "name": "Subway Italian BMT", "kcal": 190, "p": 10.0, "c": 17.0, "f": 9.0, "serving": 250.0 },
+
+  { "name": "KFC Hot Wings", "kcal": 270, "p": 20.0, "c": 8.0, "f": 18.0, "serving": 100.0 },
+  { "name": "KFC Zinger Burger", "kcal": 260, "p": 13.0, "c": 24.0, "f": 13.0, "serving": 200.0 },
+  { "name": "KFC Twister", "kcal": 230, "p": 12.0, "c": 20.0, "f": 11.0, "serving": 250.0 },
+  { "name": "KFC Crispy Strips", "kcal": 260, "p": 19.0, "c": 12.0, "f": 15.0, "serving": 120.0 },
+  { "name": "KFC Chicken Bucket", "kcal": 250, "p": 18.0, "c": 10.0, "f": 16.0, "serving": 100.0 },
+
+  { "name": "Bosna", "kcal": 280, "p": 12.0, "c": 25.0, "f": 14.0, "serving": 250.0 },
+  { "name": "Käsekrainersemmel", "kcal": 310, "p": 13.0, "c": 24.0, "f": 18.0, "serving": 220.0 },
+  { "name": "Leberkässemmel", "kcal": 290, "p": 11.0, "c": 26.0, "f": 16.0, "serving": 180.0 },
+  { "name": "Steaksemmel", "kcal": 250, "p": 16.0, "c": 25.0, "f": 10.0, "serving": 220.0 },
+  { "name": "Schnitzelsemmel", "kcal": 260, "p": 14.0, "c": 28.0, "f": 10.0, "serving": 220.0 },
+
+  { "name": "Banh Mi", "kcal": 220, "p": 11.0, "c": 27.0, "f": 7.0, "serving": 300.0 },
+  { "name": "Bibimbap", "kcal": 145, "p": 6.0, "c": 20.0, "f": 4.0, "serving": 450.0 },
+  { "name": "Kimchi Fried Rice", "kcal": 155, "p": 5.0, "c": 22.0, "f": 5.0, "serving": 400.0 },
+  { "name": "Katsu Curry", "kcal": 190, "p": 9.0, "c": 20.0, "f": 8.0, "serving": 450.0 },
+  { "name": "Yakitori", "kcal": 165, "p": 18.0, "c": 4.0, "f": 8.0, "serving": 200.0 },
+
+  { "name": "Manti", "kcal": 215, "p": 10.0, "c": 25.0, "f": 8.0, "serving": 300.0 },
+  { "name": "Pide Sucuk", "kcal": 285, "p": 12.0, "c": 30.0, "f": 13.0, "serving": 300.0 },
+  { "name": "Pide Spinat", "kcal": 245, "p": 8.0, "c": 32.0, "f": 9.0, "serving": 300.0 },
+  { "name": "Lahmacun mit Dönerfleisch", "kcal": 240, "p": 13.0, "c": 25.0, "f": 10.0, "serving": 300.0 },
+  { "name": "Sucuk Toast", "kcal": 290, "p": 12.0, "c": 26.0, "f": 15.0, "serving": 180.0 },
+
+  { "name": "Burek Käse", "kcal": 320, "p": 10.0, "c": 25.0, "f": 20.0, "serving": 200.0 },
+  { "name": "Burek Fleisch", "kcal": 340, "p": 12.0, "c": 24.0, "f": 22.0, "serving": 200.0 },
+  { "name": "Pljeskavica", "kcal": 245, "p": 16.0, "c": 4.0, "f": 18.0, "serving": 250.0 },
+  { "name": "Raznjici", "kcal": 185, "p": 22.0, "c": 1.0, "f": 10.0, "serving": 250.0 },
+  { "name": "Punjena Pljeskavica", "kcal": 280, "p": 18.0, "c": 3.0, "f": 22.0, "serving": 300.0 },
+
+  { "name": "Berliner", "kcal": 330, "p": 5.0, "c": 43.0, "f": 15.0, "serving": 80.0 },
+  { "name": "Nussschnecke", "kcal": 430, "p": 7.0, "c": 45.0, "f": 24.0, "serving": 110.0 },
+  { "name": "Käsestange", "kcal": 380, "p": 12.0, "c": 38.0, "f": 18.0, "serving": 100.0 },
+  { "name": "Schokocroissant", "kcal": 420, "p": 7.0, "c": 45.0, "f": 22.0, "serving": 90.0 },
+  { "name": "Mohnschnecke", "kcal": 410, "p": 8.0, "c": 50.0, "f": 20.0, "serving": 110.0 }
+]
+
+
 
 ]
