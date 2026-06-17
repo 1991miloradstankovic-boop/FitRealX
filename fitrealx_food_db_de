@@ -3308,6 +3308,7 @@
     "p": 3.4,
     "c": 4.9,
     "f": 0.1
+"serving": 100.0
   },
   {
     "name": "Schafsmilch",
@@ -3410,6 +3411,7 @@
     "p": 6.0,
     "c": 3.2,
     "f": 22.5
+"serving": 30.0
   },
   {
     "name": "Frischkäse Kräuter",
@@ -3455,6 +3457,7 @@
     "p": 3.3,
     "c": 17.5,
     "f": 2.4
+"serving": 200.0
   },
   {
     "name": "Hühnerei Gesamt",
@@ -3545,6 +3548,7 @@
     "p": 14.0,
     "c": 2.0,
     "f": 24.0
+"serving": 30.0
   },
   {
     "name": "Camembert 45% Fett",
@@ -3616,6 +3620,7 @@
     "p": 18.0,
     "c": 0.0,
     "f": 17.0
+"serving": 200.0
   },
   {
     "name": "Kalbsschnitzel",
@@ -3662,6 +3667,7 @@
     "p": 23.0,
     "c": 0.0,
     "f": 2.0
+"serving": 150.0
   },
   {
     "name": "Kaninchenfleisch",
@@ -3860,7 +3866,7 @@
     "p": 10.0,
     "c": 27.0,
     "f": 12.0,
-    "serving": 30.0
+    "serving": 350.0
   },
   {
     "name": "Pizza Hawaii (Restaurant)",
@@ -3876,6 +3882,7 @@
     "p": 10.0,
     "c": 25.0,
     "f": 15.0
+"serving": 200.0
   },
   {
     "name": "Pasta Napoli (Tomatensoße)",
@@ -3898,7 +3905,8 @@
     "p": 9.0,
     "c": 22.0,
     "f": 14.0,
-    "serving": 30.0
+    "serving": 300.0
+
   },
   {
     "name": "Risotto (Parmesan)",
@@ -3906,7 +3914,7 @@
     "p": 5.0,
     "c": 24.0,
     "f": 7.0,
-    "serving": 15.0
+    "serving": 150.0
   },
   {
     "name": "Spaghetti aglio e olio",
@@ -3914,6 +3922,7 @@
     "p": 4.5,
     "c": 26.0,
     "f": 4.0
+"serving": 200.0
   },
   {
     "name": "Lasagne (Restaurant)",
@@ -3937,6 +3946,7 @@
     "p": 8.0,
     "c": 25.0,
     "f": 10.0
+"serving": 150.0
   },
   {
     "name": "Cannelloni (Ricotta-Spinat)",
@@ -3952,6 +3962,7 @@
     "p": 8.0,
     "c": 22.0,
     "f": 3.0
+"serving": 200.0
   },
   {
     "name": "Makkaroni (mit Tomatensoße)",
@@ -4063,6 +4074,7 @@
     "p": 10.0,
     "c": 22.0,
     "f": 10.0
+"serving": 200.0
   },
   {
     "name": "Zwiebelrostbraten",
@@ -4078,6 +4090,7 @@
     "p": 16.0,
     "c": 4.0,
     "f": 10.0
+"serving": 150.0
   },
   {
     "name": "Sauerbraten",
@@ -4085,6 +4098,7 @@
     "p": 15.0,
     "c": 5.0,
     "f": 6.0
+"serving": 150.0
   },
   {
     "name": "Schweinshaxe (mit Haut)",
@@ -4174,6 +4188,7 @@
     "p": 18.0,
     "c": 3.0,
     "f": 18.0
+"serving": 250.0
   },
   {
     "name": "Souvlaki (Schwein)",
@@ -4189,6 +4204,7 @@
     "p": 16.0,
     "c": 4.0,
     "f": 19.0
+"serving": 220.0
   },
   {
     "name": "Moussaka",
@@ -4196,6 +4212,7 @@
     "p": 7.0,
     "c": 11.0,
     "f": 10.0
+"serving": 300.0
   },
   {
     "name": "Tzatziki",
@@ -4203,6 +4220,7 @@
     "p": 5.0,
     "c": 5.0,
     "f": 9.0
+"serving": 30.0
   },
   {
     "name": "Griechischer Bauernsalat",
@@ -4218,6 +4236,7 @@
     "p": 12.0,
     "c": 15.0,
     "f": 12.0
+"serving": 250.0
   },
   {
     "name": "Pita Brot",
@@ -4249,6 +4268,7 @@
     "p": 16.0,
     "c": 4.0,
     "f": 17.0
+"serving": 350.0
   },
   {
     "name": "Iskender Kebab",
@@ -4256,6 +4276,7 @@
     "p": 12.0,
     "c": 18.0,
     "f": 10.0
+"serving": 350.0
   },
   {
     "name": "Lahmacun (mit Salat)",
@@ -4293,6 +4314,7 @@
     "p": 5.0,
     "c": 50.0,
     "f": 22.0
+"serving": 100.0
   },
   {
     "name": "Linsensuppe (Mercimek)",
@@ -4316,6 +4338,7 @@
     "p": 5.0,
     "c": 28.0,
     "f": 3.0
+"serving": 150.0
   },
   {
     "name": "Gebratene Nudeln (Huhn)",
@@ -4323,6 +4346,7 @@
     "p": 8.0,
     "c": 25.0,
     "f": 5.0
+"serving": 300.0
   },
   {
     "name": "Gebratener Reis (Huhn)",
@@ -4330,6 +4354,7 @@
     "p": 7.0,
     "c": 26.0,
     "f": 4.5
+"serving": 300.0
   },
   {
     "name": "Frühlingsrolle (groß)",
@@ -4344,6 +4369,7 @@
     "p": 12.0,
     "c": 20.0,
     "f": 14.0
+"serving": 300.0
   },
   {
     "name": "Curry rot (Thai, mit Huhn)",
@@ -4351,6 +4377,7 @@
     "p": 8.0,
     "c": 8.0,
     "f": 10.0
+"serving": 300.0
   },
   {
     "name": "Curry grün (Thai, mit Huhn)",
@@ -4358,6 +4385,7 @@
     "p": 8.0,
     "c": 9.0,
     "f": 11.0
+    "serving": 300.0
   },
   {
     "name": "Pad Thai (mit Huhn)",
@@ -4470,6 +4498,7 @@
     "p": 12.0,
     "c": 15.0,
     "f": 21.0
+    "serving": 150.0
   },
   {
     "name": "Rindfleisch mit Zwiebeln (China)",
@@ -4603,6 +4632,7 @@
     "p": 9.0,
     "c": 7.0,
     "f": 9.0
+    "serving": 350.0
   },
   {
     "name": "Butter Chicken",
@@ -4610,7 +4640,7 @@
     "p": 9.0,
     "c": 6.0,
     "f": 13.0,
-    "serving": 150.0
+    "serving": 350.0
   },
   {
     "name": "Palak Paneer",
