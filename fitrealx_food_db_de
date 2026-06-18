@@ -9488,7 +9488,7 @@
   { "name": "Chicken Bagel", "kcal": 245, "p": 15.0, "c": 29.0, "f": 7.0, "serving": 180.0 },
   { "name": "Egg Bagel", "kcal": 250, "p": 11.0, "c": 30.0, "f": 9.0, "serving": 180.0 },
   { "name": "Salami Bagel", "kcal": 275, "p": 12.0, "c": 28.0, "f": 13.0, "serving": 180.0 },
-  { "name": "Käse Bagel", "kcal": 265, "p": 11.0, "c": 31.0, "f": 10.0, "serving": 180.0 };
+  { "name": "Käse Bagel", "kcal": 265, "p": 11.0, "c": 31.0, "f": 10.0, "serving": 180.0 },
 
   { "name": "Aral Frikadellenbrötchen", "kcal": 285, "p": 13.0, "c": 27.0, "f": 14.0, "serving": 180.0 },
   { "name": "Aral Leberkäsbrötchen", "kcal": 290, "p": 11.0, "c": 26.0, "f": 16.0, "serving": 180.0 },
