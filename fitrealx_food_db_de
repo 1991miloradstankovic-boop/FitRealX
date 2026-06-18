@@ -9488,7 +9488,153 @@
   { "name": "Chicken Bagel", "kcal": 245, "p": 15.0, "c": 29.0, "f": 7.0, "serving": 180.0 },
   { "name": "Egg Bagel", "kcal": 250, "p": 11.0, "c": 30.0, "f": 9.0, "serving": 180.0 },
   { "name": "Salami Bagel", "kcal": 275, "p": 12.0, "c": 28.0, "f": 13.0, "serving": 180.0 },
-  { "name": "Käse Bagel", "kcal": 265, "p": 11.0, "c": 31.0, "f": 10.0, "serving": 180.0 }
+  { "name": "Käse Bagel", "kcal": 265, "p": 11.0, "c": 31.0, "f": 10.0, "serving": 180.0 };
+
+  { "name": "Aral Frikadellenbrötchen", "kcal": 285, "p": 13.0, "c": 27.0, "f": 14.0, "serving": 180.0 },
+  { "name": "Aral Leberkäsbrötchen", "kcal": 290, "p": 11.0, "c": 26.0, "f": 16.0, "serving": 180.0 },
+  { "name": "Aral Käsebrötchen", "kcal": 270, "p": 11.0, "c": 34.0, "f": 10.0, "serving": 120.0 },
+  { "name": "Aral Salami Baguette", "kcal": 270, "p": 12.0, "c": 28.0, "f": 12.0, "serving": 180.0 },
+  { "name": "Aral Schinken Käse Baguette", "kcal": 245, "p": 12.0, "c": 29.0, "f": 8.0, "serving": 180.0 },
+
+  { "name": "Aral Chicken Curry Sandwich", "kcal": 225, "p": 12.0, "c": 25.0, "f": 8.0, "serving": 180.0 },
+  { "name": "Aral Club Sandwich", "kcal": 235, "p": 14.0, "c": 23.0, "f": 9.0, "serving": 220.0 },
+  { "name": "Aral Buttercroissant", "kcal": 406, "p": 8.0, "c": 44.0, "f": 22.0, "serving": 70.0 },
+  { "name": "Aral Schokocroissant", "kcal": 430, "p": 7.0, "c": 46.0, "f": 23.0, "serving": 90.0 },
+  { "name": "Aral Donut Schoko", "kcal": 430, "p": 5.0, "c": 50.0, "f": 23.0, "serving": 70.0 },
+
+  { "name": "Shell Frikadellenbrötchen", "kcal": 285, "p": 13.0, "c": 27.0, "f": 14.0, "serving": 180.0 },
+  { "name": "Shell Käse Laugenstange", "kcal": 290, "p": 10.0, "c": 39.0, "f": 10.0, "serving": 120.0 },
+  { "name": "Shell Schnitzelbrötchen", "kcal": 270, "p": 14.0, "c": 29.0, "f": 10.0, "serving": 200.0 },
+  { "name": "Shell Hot Dog", "kcal": 295, "p": 11.0, "c": 28.0, "f": 16.0, "serving": 180.0 },
+  { "name": "Shell Cheeseburger", "kcal": 260, "p": 12.0, "c": 24.0, "f": 12.0, "serving": 180.0 },
+
+  { "name": "Shell Chicken Wrap", "kcal": 220, "p": 12.0, "c": 22.0, "f": 9.0, "serving": 220.0 },
+  { "name": "Shell Thunfisch Sandwich", "kcal": 225, "p": 13.0, "c": 24.0, "f": 8.0, "serving": 180.0 },
+  { "name": "Shell Pizzastange", "kcal": 305, "p": 10.0, "c": 41.0, "f": 11.0, "serving": 120.0 },
+  { "name": "Shell Muffin Schoko", "kcal": 390, "p": 5.0, "c": 48.0, "f": 20.0, "serving": 100.0 },
+  { "name": "Shell Brownie", "kcal": 450, "p": 5.0, "c": 50.0, "f": 25.0, "serving": 80.0 },
+
+  { "name": "Red Bull Kokos Blaubeere", "kcal": 46, "p": 0.0, "c": 11.0, "f": 0.0, "serving": 250.0 },
+  { "name": "Red Bull Aprikose Erdbeere", "kcal": 46, "p": 0.0, "c": 11.0, "f": 0.0, "serving": 250.0 },
+  { "name": "Red Bull Wassermelone", "kcal": 46, "p": 0.0, "c": 11.0, "f": 0.0, "serving": 250.0 },
+  { "name": "Red Bull Zero", "kcal": 2, "p": 0.0, "c": 0.0, "f": 0.0, "serving": 250.0 },
+  { "name": "Red Bull Summer Edition", "kcal": 46, "p": 0.0, "c": 11.0, "f": 0.0, "serving": 250.0 },
+
+  { "name": "Monster Lewis Hamilton", "kcal": 3, "p": 0.0, "c": 0.8, "f": 0.0, "serving": 500.0 },
+  { "name": "Monster Ultra Paradise", "kcal": 10, "p": 0.0, "c": 2.0, "f": 0.0, "serving": 500.0 },
+  { "name": "Monster Ultra Watermelon", "kcal": 10, "p": 0.0, "c": 2.0, "f": 0.0, "serving": 500.0 },
+  { "name": "Monster Nitro", "kcal": 50, "p": 0.0, "c": 12.0, "f": 0.0, "serving": 500.0 },
+  { "name": "Monster Assault", "kcal": 48, "p": 0.0, "c": 11.5, "f": 0.0, "serving": 500.0 },
+
+  { "name": "Barebells White Chocolate Almond", "kcal": 370, "p": 33.0, "c": 30.0, "f": 13.0, "serving": 55.0 },
+  { "name": "Barebells Soft Caramel Choco", "kcal": 365, "p": 32.0, "c": 31.0, "f": 12.0, "serving": 55.0 },
+  { "name": "Foodspring Protein Bar Chocolate", "kcal": 360, "p": 30.0, "c": 29.0, "f": 13.0, "serving": 60.0 },
+  { "name": "Multipower Protein Bar Vanilla", "kcal": 350, "p": 32.0, "c": 28.0, "f": 12.0, "serving": 50.0 },
+  { "name": "Power System Protein Bar Chocolate", "kcal": 365, "p": 30.0, "c": 31.0, "f": 13.0, "serving": 50.0 },
+
+  { "name": "Lorenz NicNac's", "kcal": 550, "p": 13.0, "c": 34.0, "f": 40.0, "serving": 40.0 },
+  { "name": "Lorenz Crunchips Paprika", "kcal": 540, "p": 6.0, "c": 50.0, "f": 35.0, "serving": 30.0 },
+  { "name": "Chio Popcorn Sweet", "kcal": 430, "p": 6.0, "c": 71.0, "f": 14.0, "serving": 30.0 },
+  { "name": "Chio Popcorn Salted", "kcal": 410, "p": 8.0, "c": 68.0, "f": 11.0, "serving": 30.0 },
+  { "name": "Beef Jerky Original", "kcal": 290, "p": 50.0, "c": 15.0, "f": 3.0, "serving": 25.0 },
+
+  { "name": "Corny Big Schoko", "kcal": 450, "p": 6.0, "c": 65.0, "f": 18.0, "serving": 50.0 },
+  { "name": "Corny Big Erdnuss", "kcal": 470, "p": 8.0, "c": 60.0, "f": 21.0, "serving": 50.0 },
+  { "name": "Corny Free Schoko", "kcal": 430, "p": 5.0, "c": 68.0, "f": 15.0, "serving": 40.0 },
+  { "name": "Nature Valley Crunchy Oats Honey", "kcal": 470, "p": 8.0, "c": 64.0, "f": 19.0, "serving": 42.0 },
+  { "name": "Nature Valley Protein Peanut Chocolate", "kcal": 500, "p": 25.0, "c": 35.0, "f": 30.0, "serving": 40.0 },
+
+  { "name": "Dallmayr Cappuccino", "kcal": 52, "p": 2.5, "c": 5.0, "f": 2.5, "serving": 250.0 },
+  { "name": "Emmi Caffe Latte Macchiato", "kcal": 63, "p": 3.0, "c": 8.0, "f": 2.0, "serving": 370.0 },
+  { "name": "Starbucks Caffe Latte", "kcal": 58, "p": 2.8, "c": 6.0, "f": 2.5, "serving": 220.0 },
+  { "name": "Starbucks Caramel Macchiato", "kcal": 72, "p": 2.5, "c": 10.0, "f": 2.5, "serving": 220.0 },
+  { "name": "Starbucks Frappuccino Coffee", "kcal": 64, "p": 2.0, "c": 10.0, "f": 1.8, "serving": 250.0 },
+
+  { "name": "ESN Designer Whey Vanilla", "kcal": 384, "p": 77.0, "c": 6.0, "f": 5.5, "serving": 30.0 },
+  { "name": "ESN Designer Whey Chocolate", "kcal": 386, "p": 76.0, "c": 7.0, "f": 6.0, "serving": 30.0 },
+  { "name": "ESN Designer Whey Cinnamon Cereal", "kcal": 387, "p": 75.0, "c": 8.0, "f": 6.0, "serving": 30.0 },
+  { "name": "ESN Isoclear Peach Iced Tea", "kcal": 344, "p": 84.0, "c": 1.0, "f": 0.2, "serving": 30.0 },
+  { "name": "ESN Isoclear Green Tea Honey", "kcal": 344, "p": 84.0, "c": 1.0, "f": 0.2, "serving": 30.0 },
+
+  { "name": "ESN Designer Bar Hazelnut Nougat", "kcal": 370, "p": 33.0, "c": 29.0, "f": 13.0, "serving": 45.0 },
+  { "name": "ESN Designer Bar Peanut Caramel", "kcal": 372, "p": 33.0, "c": 28.0, "f": 14.0, "serving": 45.0 },
+  { "name": "ESN Protein Pancakes", "kcal": 364, "p": 39.0, "c": 31.0, "f": 7.0, "serving": 50.0 },
+  { "name": "ESN Protein Mug Cake Chocolate", "kcal": 350, "p": 42.0, "c": 25.0, "f": 8.0, "serving": 50.0 },
+  { "name": "ESN Flavn Tasty Vanilla", "kcal": 250, "p": 18.0, "c": 45.0, "f": 1.0, "serving": 5.0 },
+
+  { "name": "More Protein Iced Coffee", "kcal": 370, "p": 78.0, "c": 5.0, "f": 4.0, "serving": 30.0 },
+  { "name": "More Protein Milky Chocolate", "kcal": 372, "p": 77.0, "c": 6.0, "f": 4.5, "serving": 30.0 },
+  { "name": "More Protein Vanilla Ice Cream", "kcal": 371, "p": 77.0, "c": 5.0, "f": 4.5, "serving": 30.0 },
+  { "name": "More Clear Whey Peach", "kcal": 345, "p": 84.0, "c": 1.0, "f": 0.2, "serving": 30.0 },
+  { "name": "More Clear Whey Lemon Iced Tea", "kcal": 345, "p": 84.0, "c": 1.0, "f": 0.2, "serving": 30.0 },
+
+  { "name": "More Protein Bar Hazelnut", "kcal": 360, "p": 31.0, "c": 29.0, "f": 13.0, "serving": 55.0 },
+  { "name": "More Protein Bar Peanut Caramel", "kcal": 362, "p": 31.0, "c": 28.0, "f": 14.0, "serving": 55.0 },
+  { "name": "More Protein Pudding Chocolate", "kcal": 82, "p": 10.0, "c": 5.0, "f": 2.0, "serving": 200.0 },
+  { "name": "More Protein Pudding Vanilla", "kcal": 81, "p": 10.0, "c": 5.0, "f": 1.8, "serving": 200.0 },
+  { "name": "More Chunky Flavour White Chocolate", "kcal": 270, "p": 20.0, "c": 38.0, "f": 2.0, "serving": 3.0 },
+
+  { "name": "Barebells Cookies Cream", "kcal": 367, "p": 33.0, "c": 31.0, "f": 12.0, "serving": 55.0 },
+  { "name": "Barebells Salty Peanut", "kcal": 369, "p": 33.0, "c": 29.0, "f": 13.0, "serving": 55.0 },
+  { "name": "Barebells Caramel Cashew", "kcal": 366, "p": 33.0, "c": 30.0, "f": 12.0, "serving": 55.0 },
+  { "name": "Barebells White Chocolate Almond", "kcal": 370, "p": 33.0, "c": 30.0, "f": 13.0, "serving": 55.0 },
+  { "name": "Barebells Soft Salted Peanut Caramel", "kcal": 365, "p": 32.0, "c": 31.0, "f": 12.0, "serving": 55.0 },
+
+  { "name": "Foodspring Whey Chocolate", "kcal": 385, "p": 74.0, "c": 7.0, "f": 6.0, "serving": 30.0 },
+  { "name": "Foodspring Whey Vanilla", "kcal": 383, "p": 75.0, "c": 6.0, "f": 5.5, "serving": 30.0 },
+  { "name": "Foodspring Clear Whey Peach Tea", "kcal": 344, "p": 84.0, "c": 1.0, "f": 0.2, "serving": 30.0 },
+  { "name": "Foodspring Protein Bar Chocolate Brownie", "kcal": 355, "p": 30.0, "c": 28.0, "f": 12.0, "serving": 60.0 },
+  { "name": "Foodspring Protein Cream Hazelnut", "kcal": 510, "p": 20.0, "c": 18.0, "f": 40.0, "serving": 15.0 },
+
+  { "name": "Rocka No Whey Chocolate", "kcal": 380, "p": 73.0, "c": 8.0, "f": 6.0, "serving": 30.0 },
+  { "name": "Rocka No Whey Vanilla", "kcal": 378, "p": 74.0, "c": 7.0, "f": 5.5, "serving": 30.0 },
+  { "name": "Rocka Clear Protein Peach", "kcal": 340, "p": 83.0, "c": 1.0, "f": 0.5, "serving": 30.0 },
+  { "name": "Rocka Protein Bar Peanut", "kcal": 355, "p": 30.0, "c": 30.0, "f": 12.0, "serving": 60.0 },
+  { "name": "Rocka Protein Pancakes", "kcal": 360, "p": 40.0, "c": 30.0, "f": 6.0, "serving": 50.0 },
+
+  { "name": "MyProtein Impact Whey Chocolate", "kcal": 412, "p": 82.0, "c": 4.0, "f": 7.0, "serving": 25.0 },
+  { "name": "MyProtein Impact Whey Vanilla", "kcal": 410, "p": 82.0, "c": 4.0, "f": 7.0, "serving": 25.0 },
+  { "name": "MyProtein Clear Whey Peach Tea", "kcal": 345, "p": 84.0, "c": 1.0, "f": 0.1, "serving": 25.0 },
+  { "name": "MyProtein Layered Bar Chocolate Sundae", "kcal": 370, "p": 31.0, "c": 33.0, "f": 13.0, "serving": 60.0 },
+  { "name": "MyProtein Peanut Butter Smooth", "kcal": 588, "p": 25.0, "c": 18.0, "f": 49.0, "serving": 15.0 },
+
+  { "name": "IronMaxx 100 Whey Chocolate", "kcal": 388, "p": 76.0, "c": 7.0, "f": 6.0, "serving": 30.0 },
+  { "name": "IronMaxx 100 Whey Vanilla", "kcal": 386, "p": 77.0, "c": 6.0, "f": 5.5, "serving": 30.0 },
+  { "name": "IronMaxx Protein Bar Peanut", "kcal": 360, "p": 30.0, "c": 30.0, "f": 12.0, "serving": 50.0 },
+  { "name": "IronMaxx Protein Cream", "kcal": 495, "p": 22.0, "c": 20.0, "f": 38.0, "serving": 15.0 },
+  { "name": "IronMaxx Protein Pancakes", "kcal": 358, "p": 39.0, "c": 31.0, "f": 7.0, "serving": 50.0 },
+
+  { "name": "Bodylab Whey Vanilla", "kcal": 385, "p": 76.0, "c": 6.0, "f": 5.5, "serving": 30.0 },
+  { "name": "Bodylab Whey Chocolate", "kcal": 386, "p": 76.0, "c": 7.0, "f": 6.0, "serving": 30.0 },
+  { "name": "Bodylab Protein Bar Cookie Dough", "kcal": 360, "p": 30.0, "c": 31.0, "f": 12.0, "serving": 60.0 },
+  { "name": "Bodylab Protein Pudding Chocolate", "kcal": 80, "p": 10.0, "c": 5.0, "f": 1.8, "serving": 200.0 },
+  { "name": "Bodylab Peanut Butter Smooth", "kcal": 588, "p": 25.0, "c": 18.0, "f": 49.0, "serving": 15.0 },
+
+  { "name": "More Chunky Flavour White Chocolate", "kcal": 270, "p": 20.0, "c": 38.0, "f": 2.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Vanilla Perfection", "kcal": 265, "p": 19.0, "c": 39.0, "f": 2.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Milk Chocolate", "kcal": 275, "p": 19.0, "c": 40.0, "f": 2.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Dark Cookie Crumble", "kcal": 280, "p": 18.0, "c": 42.0, "f": 2.5, "serving": 3.0 },
+  { "name": "More Chunky Flavour Butter Cookie", "kcal": 275, "p": 18.0, "c": 41.0, "f": 2.0, "serving": 3.0 },
+
+  { "name": "More Chunky Flavour Cinnamon Cereal", "kcal": 270, "p": 18.0, "c": 40.0, "f": 2.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Vanilla Chocolate Chip", "kcal": 275, "p": 19.0, "c": 39.0, "f": 2.5, "serving": 3.0 },
+  { "name": "More Chunky Flavour Honey Cereal", "kcal": 270, "p": 18.0, "c": 41.0, "f": 2.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Caramel Biscuit", "kcal": 278, "p": 18.0, "c": 41.0, "f": 2.5, "serving": 3.0 },
+  { "name": "More Chunky Flavour Chocolate Brownie", "kcal": 282, "p": 18.0, "c": 42.0, "f": 2.5, "serving": 3.0 },
+
+  { "name": "More Chunky Flavour Peanut Butter Cup", "kcal": 290, "p": 20.0, "c": 35.0, "f": 5.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Salted Caramel", "kcal": 275, "p": 18.0, "c": 40.0, "f": 2.5, "serving": 3.0 },
+  { "name": "More Chunky Flavour Coconut White Chocolate", "kcal": 285, "p": 18.0, "c": 39.0, "f": 4.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Strawberry Cream", "kcal": 268, "p": 18.0, "c": 40.0, "f": 2.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Blueberry Cheesecake", "kcal": 272, "p": 18.0, "c": 40.0, "f": 2.5, "serving": 3.0 },
+
+  { "name": "More Chunky Flavour Banana Milk", "kcal": 270, "p": 18.0, "c": 41.0, "f": 2.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Pistachio White Chocolate", "kcal": 292, "p": 19.0, "c": 35.0, "f": 6.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Hazelnut Nougat", "kcal": 295, "p": 19.0, "c": 35.0, "f": 6.0, "serving": 3.0 },
+  { "name": "More Chunky Flavour Raspberry White Chocolate", "kcal": 276, "p": 18.0, "c": 40.0, "f": 2.5, "serving": 3.0 },
+  { "name": "More Chunky Flavour Cheesecake", "kcal": 272, "p": 18.0, "c": 40.0, "f": 2.5, "serving": 3.0 }
+
+
 
 
 ]
