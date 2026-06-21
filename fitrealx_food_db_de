@@ -9646,6 +9646,20 @@
   { "name": "Mango Eis Kugel", "kcal": 155, "p": 0.5, "c": 37.0, "f": 0.5, "serving": 75.0 },
   { "name": "Himbeereis Kugel", "kcal": 150, "p": 0.5, "c": 36.0, "f": 0.5, "serving": 75.0 },
 
+
+{ "name": "Eis Vanille Kugel", "kcal": 210, "p": 3.5, "c": 24.0, "f": 11.0, "serving": 75.0 },
+  { "name": "Eis Schokolade Kugel", "kcal": 230, "p": 4.0, "c": 25.0, "f": 12.0, "serving": 75.0 },
+  { "name": "Eis  Stracciatella Kugel", "kcal": 225, "p": 3.8, "c": 24.0, "f": 12.0, "serving": 75.0 },
+  { "name": "Eis Haselnuss Kugel", "kcal": 250, "p": 5.0, "c": 22.0, "f": 15.0, "serving": 75.0 },
+  { "name": "Eis Pistazie Kugel", "kcal": 255, "p": 5.0, "c": 22.0, "f": 16.0, "serving": 75.0 },
+
+  { "name": "Eis Joghurt Kugel", "kcal": 180, "p": 4.0, "c": 22.0, "f": 8.0, "serving": 75.0 },
+  { "name": "Eis Erdbeere Kugel", "kcal": 190, "p": 3.0, "c": 24.0, "f": 8.0, "serving": 75.0 },
+  { "name": "Eis Zitrone Kugel", "kcal": 145, "p": 0.5, "c": 35.0, "f": 0.5, "serving": 75.0 },
+  { "name": "Eis Mango Kugel", "kcal": 155, "p": 0.5, "c": 37.0, "f": 0.5, "serving": 75.0 },
+  { "name": "Eis Himbeer Kugel", "kcal": 150, "p": 0.5, "c": 36.0, "f": 0.5, "serving": 75.0 },
+
+
   { "name": "Cookie Eis Kugel", "kcal": 260, "p": 4.0, "c": 28.0, "f": 15.0, "serving": 75.0 },
   { "name": "Karamelleis Kugel", "kcal": 245, "p": 3.0, "c": 28.0, "f": 13.0, "serving": 75.0 },
   { "name": "Oreo Eis Kugel", "kcal": 260, "p": 4.0, "c": 29.0, "f": 14.0, "serving": 75.0 },
