@@ -9632,7 +9632,57 @@
   { "name": "More Chunky Flavour Pistachio White Chocolate", "kcal": 292, "p": 19.0, "c": 35.0, "f": 6.0, "serving": 3.0 },
   { "name": "More Chunky Flavour Hazelnut Nougat", "kcal": 295, "p": 19.0, "c": 35.0, "f": 6.0, "serving": 3.0 },
   { "name": "More Chunky Flavour Raspberry White Chocolate", "kcal": 276, "p": 18.0, "c": 40.0, "f": 2.5, "serving": 3.0 },
-  { "name": "More Chunky Flavour Cheesecake", "kcal": 272, "p": 18.0, "c": 40.0, "f": 2.5, "serving": 3.0 }
+  { "name": "More Chunky Flavour Cheesecake", "kcal": 272, "p": 18.0, "c": 40.0, "f": 2.5, "serving": 3.0 },
+
+  { "name": "Vanilleeis Kugel", "kcal": 210, "p": 3.5, "c": 24.0, "f": 11.0, "serving": 75.0 },
+  { "name": "Schokoladeneis Kugel", "kcal": 230, "p": 4.0, "c": 25.0, "f": 12.0, "serving": 75.0 },
+  { "name": "Stracciatella Eis Kugel", "kcal": 225, "p": 3.8, "c": 24.0, "f": 12.0, "serving": 75.0 },
+  { "name": "Haselnusseis Kugel", "kcal": 250, "p": 5.0, "c": 22.0, "f": 15.0, "serving": 75.0 },
+  { "name": "Pistazieneis Kugel", "kcal": 255, "p": 5.0, "c": 22.0, "f": 16.0, "serving": 75.0 },
+
+  { "name": "Joghurteis Kugel", "kcal": 180, "p": 4.0, "c": 22.0, "f": 8.0, "serving": 75.0 },
+  { "name": "Erdbeereis Kugel", "kcal": 190, "p": 3.0, "c": 24.0, "f": 8.0, "serving": 75.0 },
+  { "name": "Zitroneneis Kugel", "kcal": 145, "p": 0.5, "c": 35.0, "f": 0.5, "serving": 75.0 },
+  { "name": "Mango Eis Kugel", "kcal": 155, "p": 0.5, "c": 37.0, "f": 0.5, "serving": 75.0 },
+  { "name": "Himbeereis Kugel", "kcal": 150, "p": 0.5, "c": 36.0, "f": 0.5, "serving": 75.0 },
+
+  { "name": "Cookie Eis Kugel", "kcal": 260, "p": 4.0, "c": 28.0, "f": 15.0, "serving": 75.0 },
+  { "name": "Karamelleis Kugel", "kcal": 245, "p": 3.0, "c": 28.0, "f": 13.0, "serving": 75.0 },
+  { "name": "Oreo Eis Kugel", "kcal": 260, "p": 4.0, "c": 29.0, "f": 14.0, "serving": 75.0 },
+  { "name": "Kinder Bueno Eis Kugel", "kcal": 280, "p": 4.0, "c": 27.0, "f": 17.0, "serving": 75.0 },
+  { "name": "Raffaello Eis Kugel", "kcal": 285, "p": 4.0, "c": 26.0, "f": 18.0, "serving": 75.0 },
+
+  { "name": "Spaghetti Eis", "kcal": 195, "p": 3.5, "c": 24.0, "f": 9.0, "serving": 350.0 },
+  { "name": "Bananensplit", "kcal": 180, "p": 4.0, "c": 23.0, "f": 8.0, "serving": 350.0 },
+  { "name": "Nussbecher", "kcal": 250, "p": 5.0, "c": 22.0, "f": 16.0, "serving": 350.0 },
+  { "name": "Joghurtbecher", "kcal": 170, "p": 4.0, "c": 21.0, "f": 7.0, "serving": 300.0 },
+  { "name": "Amarenabecher", "kcal": 220, "p": 4.0, "c": 25.0, "f": 11.0, "serving": 300.0 },
+
+
+  { "name": "Cremissimo Bourbon Vanille", "kcal": 220, "p": 3.5, "c": 24.0, "f": 12.0, "serving": 100.0 },
+  { "name": "Cremissimo Schokolade", "kcal": 235, "p": 4.0, "c": 25.0, "f": 13.0, "serving": 100.0 },
+  { "name": "Cremissimo Stracciatella", "kcal": 230, "p": 3.5, "c": 24.0, "f": 13.0, "serving": 100.0 },
+  { "name": "Mövenpick Bourbon Vanille", "kcal": 230, "p": 4.0, "c": 23.0, "f": 13.0, "serving": 100.0 },
+  { "name": "Mövenpick Stracciatella", "kcal": 235, "p": 4.0, "c": 24.0, "f": 13.0, "serving": 100.0 },
+
+  { "name": "Mövenpick Chocolate Chips", "kcal": 245, "p": 4.0, "c": 25.0, "f": 14.0, "serving": 100.0 },
+  { "name": "Mövenpick Maple Walnuts", "kcal": 260, "p": 4.0, "c": 24.0, "f": 16.0, "serving": 100.0 },
+  { "name": "Langnese Viennetta Vanille", "kcal": 250, "p": 3.5, "c": 24.0, "f": 15.0, "serving": 100.0 },
+  { "name": "Langnese Viennetta Schokolade", "kcal": 260, "p": 4.0, "c": 25.0, "f": 16.0, "serving": 100.0 },
+  { "name": "Gelatelli Bourbon Vanille", "kcal": 215, "p": 3.5, "c": 24.0, "f": 11.0, "serving": 100.0 },
+
+  { "name": "Gelatelli Stracciatella", "kcal": 225, "p": 3.5, "c": 24.0, "f": 12.0, "serving": 100.0 },
+  { "name": "Gelatelli Schokolade", "kcal": 230, "p": 4.0, "c": 25.0, "f": 12.0, "serving": 100.0 },
+  { "name": "Gelatelli Cookies Cream", "kcal": 250, "p": 4.0, "c": 26.0, "f": 14.0, "serving": 100.0 },
+  { "name": "Gelatelli Salted Caramel", "kcal": 255, "p": 4.0, "c": 25.0, "f": 15.0, "serving": 100.0 },
+  { "name": "Gelatelli Peanut Butter", "kcal": 275, "p": 5.0, "c": 23.0, "f": 18.0, "serving": 100.0 },
+
+  { "name": "Milbona Protein Eis Vanille", "kcal": 135, "p": 10.0, "c": 12.0, "f": 5.0, "serving": 100.0 },
+  { "name": "Milbona Protein Eis Schokolade", "kcal": 140, "p": 10.0, "c": 13.0, "f": 5.0, "serving": 100.0 },
+  { "name": "Milsani Protein Eis Vanille", "kcal": 135, "p": 10.0, "c": 12.0, "f": 5.0, "serving": 100.0 },
+  { "name": "Milsani Protein Eis Schokolade", "kcal": 140, "p": 10.0, "c": 13.0, "f": 5.0, "serving": 100.0 },
+  { "name": "High Protein Eis Salted Caramel", "kcal": 145, "p": 10.0, "c": 13.0, "f": 5.5, "serving": 100.0 }
+
 
 
 
