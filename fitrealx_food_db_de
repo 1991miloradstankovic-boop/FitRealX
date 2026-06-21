@@ -9695,10 +9695,66 @@
   { "name": "Milbona Protein Eis Schokolade", "kcal": 140, "p": 10.0, "c": 13.0, "f": 5.0, "serving": 100.0 },
   { "name": "Milsani Protein Eis Vanille", "kcal": 135, "p": 10.0, "c": 12.0, "f": 5.0, "serving": 100.0 },
   { "name": "Milsani Protein Eis Schokolade", "kcal": 140, "p": 10.0, "c": 13.0, "f": 5.0, "serving": 100.0 },
-  { "name": "High Protein Eis Salted Caramel", "kcal": 145, "p": 10.0, "c": 13.0, "f": 5.5, "serving": 100.0 }
+  { "name": "High Protein Eis Salted Caramel", "kcal": 145, "p": 10.0, "c": 13.0, "f": 5.5, "serving": 100.0 },
 
+  { "name": "Softeis Vanille", "kcal": 190, "p": 4.0, "c": 28.0, "f": 7.0, "serving": 120.0 },
+  { "name": "Softeis Schokolade", "kcal": 205, "p": 4.0, "c": 29.0, "f": 8.0, "serving": 120.0 },
+  { "name": "Softeis Mix", "kcal": 198, "p": 4.0, "c": 28.0, "f": 7.5, "serving": 120.0 },
+  { "name": "Frozen Yogurt Natur", "kcal": 125, "p": 4.0, "c": 22.0, "f": 2.5, "serving": 150.0 },
+  { "name": "Frozen Yogurt Erdbeere", "kcal": 135, "p": 4.0, "c": 24.0, "f": 2.5, "serving": 150.0 },
 
+  { "name": "Affogato", "kcal": 165, "p": 3.0, "c": 18.0, "f": 9.0, "serving": 180.0 },
+  { "name": "Eiskaffee", "kcal": 120, "p": 3.0, "c": 18.0, "f": 4.0, "serving": 250.0 },
+  { "name": "Eisschokolade", "kcal": 165, "p": 4.0, "c": 24.0, "f": 6.0, "serving": 300.0 },
+  { "name": "Milchshake Vanille", "kcal": 105, "p": 3.5, "c": 16.0, "f": 3.0, "serving": 300.0 },
+  { "name": "Milchshake Schokolade", "kcal": 115, "p": 3.5, "c": 18.0, "f": 3.5, "serving": 300.0 },
 
+  { "name": "Milchshake Erdbeere", "kcal": 110, "p": 3.0, "c": 18.0, "f": 3.0, "serving": 300.0 },
+  { "name": "Slush Eis Cola", "kcal": 85, "p": 0.0, "c": 21.0, "f": 0.0, "serving": 250.0 },
+  { "name": "Slush Eis Kirsche", "kcal": 88, "p": 0.0, "c": 22.0, "f": 0.0, "serving": 250.0 },
+  { "name": "Slush Eis Himbeere", "kcal": 88, "p": 0.0, "c": 22.0, "f": 0.0, "serving": 250.0 },
+  { "name": "Slush Eis Blue Raspberry", "kcal": 90, "p": 0.0, "c": 22.0, "f": 0.0, "serving": 250.0 },
 
+  { "name": "Amarena Eis Kugel", "kcal": 235, "p": 3.5, "c": 26.0, "f": 13.0, "serving": 75.0 },
+  { "name": "Tiramisu Eis Kugel", "kcal": 245, "p": 4.0, "c": 24.0, "f": 14.0, "serving": 75.0 },
+  { "name": "Cheesecake Eis Kugel", "kcal": 255, "p": 4.0, "c": 25.0, "f": 15.0, "serving": 75.0 },
+  { "name": "Snickers Eis Kugel", "kcal": 275, "p": 4.0, "c": 26.0, "f": 17.0, "serving": 75.0 },
+  { "name": "Bueno Eis Kugel", "kcal": 280, "p": 4.0, "c": 27.0, "f": 17.0, "serving": 75.0 },
+
+  { "name": "After Eight Eis Kugel", "kcal": 235, "p": 3.0, "c": 25.0, "f": 13.0, "serving": 75.0 },
+  { "name": "Malaga Eis Kugel", "kcal": 240, "p": 3.5, "c": 24.0, "f": 13.0, "serving": 75.0 },
+  { "name": "Walnuss Eis Kugel", "kcal": 260, "p": 5.0, "c": 22.0, "f": 17.0, "serving": 75.0 },
+  { "name": "Cookies Cream Eis Kugel", "kcal": 265, "p": 4.0, "c": 28.0, "f": 15.0, "serving": 75.0 },
+  { "name": "Schwarzwälder Kirsch Eis Kugel", "kcal": 250, "p": 4.0, "c": 26.0, "f": 14.0, "serving": 75.0 },
+
+  { "name": "Magnum Double Caramel", "kcal": 330, "p": 4.0, "c": 29.0, "f": 22.0, "serving": 85.0 },
+  { "name": "Magnum Double Chocolate", "kcal": 340, "p": 4.0, "c": 28.0, "f": 24.0, "serving": 85.0 },
+  { "name": "Magnum White Chocolate", "kcal": 320, "p": 4.0, "c": 26.0, "f": 22.0, "serving": 85.0 },
+  { "name": "Magnum Classic", "kcal": 310, "p": 3.5, "c": 26.0, "f": 21.0, "serving": 120.0 },
+  { "name": "Magnum Mini Classic", "kcal": 305, "p": 3.5, "c": 26.0, "f": 21.0, "serving": 55.0 },
+
+  { "name": "Cornetto Classico", "kcal": 245, "p": 3.0, "c": 29.0, "f": 12.0, "serving": 90.0 },
+  { "name": "Cornetto Schokolade", "kcal": 255, "p": 3.0, "c": 30.0, "f": 13.0, "serving": 90.0 },
+  { "name": "Cornetto Erdbeere", "kcal": 250, "p": 3.0, "c": 29.0, "f": 13.0, "serving": 90.0 },
+  { "name": "Nogger Choc", "kcal": 285, "p": 3.0, "c": 31.0, "f": 16.0, "serving": 90.0 },
+  { "name": "Nogger Dir", "kcal": 295, "p": 3.0, "c": 30.0, "f": 17.0, "serving": 90.0 },
+
+  { "name": "Twister", "kcal": 115, "p": 1.0, "c": 24.0, "f": 1.5, "serving": 80.0 },
+  { "name": "Calippo Cola", "kcal": 95, "p": 0.0, "c": 24.0, "f": 0.0, "serving": 105.0 },
+  { "name": "Calippo Orange", "kcal": 98, "p": 0.0, "c": 24.0, "f": 0.0, "serving": 105.0 },
+  { "name": "Solero Exotic", "kcal": 125, "p": 1.0, "c": 25.0, "f": 2.0, "serving": 90.0 },
+  { "name": "Solero Red Berries", "kcal": 120, "p": 1.0, "c": 24.0, "f": 2.0, "serving": 90.0 },
+
+  { "name": "Ben & Jerrys Strawberry Cheesecake", "kcal": 265, "p": 4.0, "c": 31.0, "f": 14.0, "serving": 100.0 },
+  { "name": "Ben & Jerrys Netflix Chilld", "kcal": 270, "p": 4.0, "c": 30.0, "f": 15.0, "serving": 100.0 },
+  { "name": "Ben & Jerrys Peanut Butter Cup", "kcal": 295, "p": 5.0, "c": 25.0, "f": 19.0, "serving": 100.0 },
+  { "name": "Ben & Jerrys Karamel Sutra", "kcal": 285, "p": 4.0, "c": 28.0, "f": 17.0, "serving": 100.0 },
+  { "name": "Ben & Jerrys Chocolate Chip Cookie Dough", "kcal": 270, "p": 4.0, "c": 31.0, "f": 14.0, "serving": 100.0 },
+
+  { "name": "Mövenpick Walnut Maple Syrup", "kcal": 260, "p": 4.0, "c": 24.0, "f": 16.0, "serving": 100.0 },
+  { "name": "Mövenpick Pistachio", "kcal": 255, "p": 5.0, "c": 22.0, "f": 16.0, "serving": 100.0 },
+  { "name": "Mövenpick Caramelita", "kcal": 250, "p": 4.0, "c": 25.0, "f": 15.0, "serving": 100.0 },
+  { "name": "Cremissimo Cookies", "kcal": 250, "p": 4.0, "c": 26.0, "f": 14.0, "serving": 100.0 },
+  { "name": "Cremissimo Haselnuss", "kcal": 255, "p": 5.0, "c": 23.0, "f": 16.0, "serving": 100.0 }
 
 ]
