@@ -1,4 +1,3 @@
-JSON
 [
   {"name": "Mela", "kcal": 52, "p": 0.3, "c": 13.8, "f": 0.2, "serving": 150.0},
   {"name": "Banana", "kcal": 89, "p": 1.1, "c": 22.8, "f": 0.3, "serving": 120.0},
