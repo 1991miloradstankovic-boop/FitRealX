@@ -1,0 +1,202 @@
+[
+  {
+    "id": "meal_001",
+    "names": {
+      "de": "Protein-Haferbrei mit Beeren",
+      "en": "Protein Oatmeal with Berries",
+      "sr": "Proteinska ovsena kaša sa šumskim voćem",
+      "pt": "Aveia proteica com frutas vermelhas",
+      "ja": "ベリー付きプロテインオートミール",
+      "fr": "Flocons d'avoine protéinés aux baies",
+      "it": "Avena proteica con frutti di bosco",
+      "es": "Avena proteica con frutos rojos"
+    },
+    "kcal": 116,
+    "p": 8.3,
+    "c": 15.0,
+    "f": 2.3,
+    "serving": 300.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_002",
+    "names": {
+      "de": "Gegrillter Lachs mit Spargel",
+      "en": "Grilled Salmon with Asparagus",
+      "sr": "Grilovani losos sa šparglom",
+      "pt": "Salmão grelhado com aspargos",
+      "ja": "焼き鮭とアスパラガス",
+      "fr": "Saumon grillé aux asperges",
+      "it": "Salmone grigliato con asparagi",
+      "es": "Salmón a la parrilla con espárragos"
+    },
+    "kcal": 128,
+    "p": 11.4,
+    "c": 2.8,
+    "f": 7.1,
+    "serving": 350.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["pescatarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_003",
+    "names": {
+      "de": "Hähnchenbrust mit Reis und Brokkoli",
+      "en": "Chicken Breast with Rice and Broccoli",
+      "sr": "Pileća prsa sa pirinčem i brokolijem",
+      "pt": "Peito de frango com arroz e brócolis",
+      "ja": "鶏胸肉とご飯とブロッコリー",
+      "fr": "Blanc de poulet avec riz et brocoli",
+      "it": "Petto di pollo con riso e broccoli",
+      "es": "Pechuga de pollo con arroz y brócoli"
+    },
+    "kcal": 130,
+    "p": 13.7,
+    "c": 12.5,
+    "f": 2.0,
+    "serving": 400.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "high_protein"]
+  },
+  {
+    "id": "meal_004",
+    "names": {
+      "de": "Griechischer Joghurt mit Walnüssen",
+      "en": "Greek Yogurt with Walnuts",
+      "sr": "Grčki jogurt sa orasima",
+      "pt": "Iogurte grego com nozes",
+      "ja": "クルミ入りギリシャヨーグルト",
+      "fr": "Yaourt grec aux noix",
+      "it": "Yogurt greco con noci",
+      "es": "Yogur griego con nueces"
+    },
+    "kcal": 140,
+    "p": 10.0,
+    "c": 6.0,
+    "f": 9.0,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_005",
+    "names": {
+      "de": "Veganes Linsen-Curry",
+      "en": "Vegan Lentil Curry",
+      "sr": "Veganski kari od sočiva",
+      "pt": "Curry vegano de lentilha",
+      "ja": "ヴィーガンレンズ豆カレー",
+      "fr": "Curry de lentilles végétalien",
+      "it": "Curry di lenticchie vegano",
+      "es": "Curry de lentejas vegano"
+    },
+    "kcal": 105,
+    "p": 5.5,
+    "c": 15.0,
+    "f": 3.0,
+    "serving": 400.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_006",
+    "names": {
+      "de": "Rührei mit Spinat",
+      "en": "Scrambled Eggs with Spinach",
+      "sr": "Kajgana sa spanaćem",
+      "pt": "Ovos mexidos com espinafre",
+      "ja": "ほうれん草のスクランブルエッグ",
+      "fr": "Œufs brouillés aux épinards",
+      "it": "Uova strapazzate con spinaci",
+      "es": "Huevos revueltos con espinacas"
+    },
+    "kcal": 124,
+    "p": 9.6,
+    "c": 1.6,
+    "f": 8.8,
+    "serving": 250.0,
+    "meal_type": ["breakfast"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_007",
+    "names": {
+      "de": "Thunfischsalat",
+      "en": "Tuna Salad",
+      "sr": "Salata sa tunjevinom",
+      "pt": "Salada de atum",
+      "ja": "ツナサラダ",
+      "fr": "Salade de thon",
+      "it": "Insalata di tonno",
+      "es": "Ensalada de atún"
+    },
+    "kcal": 100,
+    "p": 10.0,
+    "c": 2.8,
+    "f": 4.2,
+    "serving": 350.0,
+    "meal_type": ["lunch", "snack"],
+    "diet_tags": ["pescatarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_008",
+    "names": {
+      "de": "Hüttenkäse mit Apfel",
+      "en": "Cottage Cheese with Apple",
+      "sr": "Zrnasti sir sa jabukom",
+      "pt": "Queijo cottage com maçã",
+      "ja": "カッテージチーズとリンゴ",
+      "fr": "Fromage cottage aux pommes",
+      "it": "Fiocchi di latte con mela",
+      "es": "Queso cottage con manzana"
+    },
+    "kcal": 88,
+    "p": 10.0,
+    "c": 8.0,
+    "f": 2.0,
+    "serving": 250.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegetarian"]
+  },
+  {
+    "id": "meal_009",
+    "names": {
+      "de": "Tofu-Gemüse-Pfanne",
+      "en": "Tofu Stir-Fry",
+      "sr": "Tofu sa povrćem",
+      "pt": "Refogado de tofu com vegetais",
+      "ja": "豆腐の野菜炒め",
+      "fr": "Sauté de tofu aux légumes",
+      "it": "Saltato di tofu e verdure",
+      "es": "Salteado de tofu con verduras"
+    },
+    "kcal": 95,
+    "p": 5.0,
+    "c": 6.2,
+    "f": 5.5,
+    "serving": 400.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_010",
+    "names": {
+      "de": "Protein-Shake (Whey) mit Wasser",
+      "en": "Protein Shake (Whey) with Water",
+      "sr": "Proteinski šejk (Whey) sa vodom",
+      "pt": "Shake de proteína (Whey) com água",
+      "ja": "プロテインシェイク (水割り)",
+      "fr": "Shaker de protéines (Whey) à l'eau",
+      "it": "Frullato proteico (Whey) con acqua",
+      "es": "Batido de proteínas (Whey) con agua"
+    },
+    "kcal": 38,
+    "p": 8.0,
+    "c": 0.6,
+    "f": 0.5,
+    "serving": 300.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  }
+]
