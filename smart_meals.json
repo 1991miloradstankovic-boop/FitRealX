@@ -1123,26 +1123,6 @@
     "diet_tags": ["vegan", "vegetarian", "high_protein"]
   },
   {
-    "id": "meal_057",
-    "names": {
-      "de": "Olivenöl",
-      "en": "Olive Oil",
-      "sr": "Maslinovo ulje",
-      "pt": "Azeite de oliva",
-      "ja": "オリーブオイル",
-      "fr": "Huile d'olive",
-      "it": "Olio d'oliva",
-      "es": "Aceite de oliva"
-    },
-    "kcal": 884,
-    "p": 0.0,
-    "c": 0.0,
-    "f": 100.0,
-    "serving": 1000.0,
-    "meal_type": ["lunch", "dinner"],
-    "diet_tags": ["vegan", "vegetarian", "low_carb"]
-  },
-  {
     "id": "meal_058",
     "names": {
       "de": "Tofu Natur",
@@ -2926,26 +2906,6 @@
     "diet_tags": ["vegetarian", "high_protein"]
   },
   {
-    "id": "meal_147",
-    "names": {
-      "de": "Eiklar",
-      "en": "Egg Whites",
-      "sr": "Belanca",
-      "pt": "Claras de ovo",
-      "ja": "卵白",
-      "fr": "Blancs d'œufs",
-      "it": "Albumi",
-      "es": "Claras de huevo"
-    },
-    "kcal": 48,
-    "p": 10.9,
-    "c": 0.7,
-    "f": 0.2,
-    "serving": 30.0,
-    "meal_type": ["breakfast"],
-    "diet_tags": ["low_carb", "high_protein"]
-  },
-  {
     "id": "meal_148",
     "names": {
       "de": "Flüssiges Eiklar",
@@ -3507,46 +3467,6 @@
     "diet_tags": ["vegan", "vegetarian"]
   },
   {
-    "id": "meal_176",
-    "names": {
-      "de": "Zwiebel",
-      "en": "Onion",
-      "sr": "Luk",
-      "pt": "Cebola",
-      "ja": "玉ねぎ",
-      "fr": "Oignon",
-      "it": "Cipolla",
-      "es": "Cebolla"
-    },
-    "kcal": 40,
-    "p": 1.1,
-    "c": 9.0,
-    "f": 0.1,
-    "serving": 50.0,
-    "meal_type": ["lunch", "dinner"],
-    "diet_tags": ["vegan", "vegetarian", "low_carb"]
-  },
-  {
-    "id": "meal_177",
-    "names": {
-      "de": "Knoblauch",
-      "en": "Garlic",
-      "sr": "Beli luk",
-      "pt": "Alho",
-      "ja": "にんにく",
-      "fr": "Ail",
-      "it": "Aglio",
-      "es": "Ajo"
-    },
-    "kcal": 149,
-    "p": 6.4,
-    "c": 33.0,
-    "f": 0.5,
-    "serving": 5.0,
-    "meal_type": ["lunch", "dinner"],
-    "diet_tags": ["vegan", "vegetarian"]
-  },
-  {
     "id": "meal_178",
     "names": {
       "de": "Aubergine",
@@ -4007,46 +3927,6 @@
     "diet_tags": ["pescatarian", "low_carb", "high_protein"]
   },
   {
-    "id": "meal_201",
-    "names": {
-      "de": "Chiasamen",
-      "en": "Chia Seeds",
-      "sr": "Čia semenke",
-      "pt": "Sementes de chia",
-      "ja": "チアシード",
-      "fr": "Graines de chia",
-      "it": "Semi di chia",
-      "es": "Semillas de chía"
-    },
-    "kcal": 486,
-    "p": 17.0,
-    "c": 42.0,
-    "f": 31.0,
-    "serving": 15.0,
-    "meal_type": ["breakfast", "snack"],
-    "diet_tags": ["vegan", "vegetarian", "high_protein"]
-  },
-  {
-    "id": "meal_202",
-    "names": {
-      "de": "Leinsamen",
-      "en": "Flaxseeds",
-      "sr": "Laneno seme",
-      "pt": "Sementes de linhaça",
-      "ja": "フラックスシード",
-      "fr": "Graines de lin",
-      "it": "Semi di lino",
-      "es": "Semillas de lino"
-    },
-    "kcal": 534,
-    "p": 18.0,
-    "c": 29.0,
-    "f": 42.0,
-    "serving": 15.0,
-    "meal_type": ["breakfast", "snack"],
-    "diet_tags": ["vegan", "vegetarian", "high_protein"]
-  },
-  {
     "id": "meal_203",
     "names": {
       "de": "Kürbiskerne",
@@ -4405,7 +4285,2008 @@
     "serving": 50.0,
     "meal_type": ["snack", "lunch", "dinner"],
     "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_221",
+    "names": {
+      "de": "Gekochtes Ei",
+      "en": "Boiled Egg",
+      "sr": "Kuvano jaje",
+      "pt": "Ovo cozido",
+      "ja": "ゆで卵",
+      "fr": "Œuf dur",
+      "it": "Uovo sodo",
+      "es": "Huevo cocido"
+    },
+    "kcal": 155,
+    "p": 13.0,
+    "c": 1.1,
+    "f": 11.0,
+    "serving": 60.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_222",
+    "names": {
+      "de": "Hähnchen-Spieße",
+      "en": "Chicken Skewers",
+      "sr": "Pileći ražnjići",
+      "pt": "Espetinhos de frango",
+      "ja": "焼き鳥",
+      "fr": "Brochettes de poulet",
+      "it": "Spiedini di pollo",
+      "es": "Brochetas de pollo"
+    },
+    "kcal": 130,
+    "p": 22.0,
+    "c": 2.0,
+    "f": 3.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_223",
+    "names": {
+      "de": "Gebackenes Lachsfilet",
+      "en": "Baked Salmon Fillet",
+      "sr": "Pečeni losos",
+      "pt": "Filé de salmão assado",
+      "ja": "焼き鮭",
+      "fr": "Filet de saumon au four",
+      "it": "Filetto di salmone al forno",
+      "es": "Filete de salmón al horno"
+    },
+    "kcal": 206,
+    "p": 20.0,
+    "c": 0.0,
+    "f": 13.5,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["pescatarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_224",
+    "names": {
+      "de": "Tempeh (gebraten)",
+      "en": "Pan-fried Tempeh",
+      "sr": "Prženi tempeh",
+      "pt": "Tempeh frito",
+      "ja": "テンペ炒め",
+      "fr": "Tempeh poêlé",
+      "it": "Tempeh in padella",
+      "es": "Tempeh a la plancha"
+    },
+    "kcal": 195,
+    "p": 20.0,
+    "c": 8.0,
+    "f": 11.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_225",
+    "names": {
+      "de": "Seitan (gebraten)",
+      "en": "Pan-fried Seitan",
+      "sr": "Prženi sejtan",
+      "pt": "Seitan frito",
+      "ja": "セイタン炒め",
+      "fr": "Seitan poêlé",
+      "it": "Seitan in padella",
+      "es": "Seitán a la plancha"
+    },
+    "kcal": 160,
+    "p": 25.0,
+    "c": 5.0,
+    "f": 4.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_226",
+    "names": {
+      "de": "Chili sin Carne",
+      "en": "Vegan Chili",
+      "sr": "Čili sin karne (veganski)",
+      "pt": "Chili vegano",
+      "ja": "ヴィーガンチリ",
+      "fr": "Chili végétalien",
+      "it": "Chili vegano",
+      "es": "Chili vegano"
+    },
+    "kcal": 105,
+    "p": 6.0,
+    "c": 14.0,
+    "f": 2.0,
+    "serving": 350.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_227",
+    "names": {
+      "de": "Harzer Käse",
+      "en": "Harzer Cheese",
+      "sr": "Harcerski sir",
+      "pt": "Queijo Harzer",
+      "ja": "ハルツチーズ",
+      "fr": "Fromage du Harz",
+      "it": "Formaggio Harzer",
+      "es": "Queso Harzer"
+    },
+    "kcal": 113,
+    "p": 27.0,
+    "c": 0.0,
+    "f": 0.5,
+    "serving": 50.0,
+    "meal_type": ["snack", "dinner"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_228",
+    "names": {
+      "de": "Zoodles (Zucchini-Nudeln)",
+      "en": "Zucchini Noodles (Zoodles)",
+      "sr": "Rezanci od tikvica",
+      "pt": "Macarrão de abobrinha",
+      "ja": "ズッキーニヌードル",
+      "fr": "Nouilles de courgette",
+      "it": "Spaghetti di zucchine",
+      "es": "Fideos de calabacín"
+    },
+    "kcal": 17,
+    "p": 1.2,
+    "c": 3.1,
+    "f": 0.3,
+    "serving": 250.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_229",
+    "names": {
+      "de": "Edamame-Nudeln (gekocht)",
+      "en": "Edamame Pasta (Cooked)",
+      "sr": "Testenina od edamamea (kuvana)",
+      "pt": "Macarrão de edamame (cozido)",
+      "ja": "枝豆パスタ（茹で）",
+      "fr": "Pâtes d'edamame (cuites)",
+      "it": "Pasta di edamame (cotta)",
+      "es": "Pasta de edamame (cocida)"
+    },
+    "kcal": 120,
+    "p": 14.0,
+    "c": 6.0,
+    "f": 2.5,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein", "low_carb"]
+  },
+  {
+    "id": "meal_230",
+    "names": {
+      "de": "Linsen-Nudeln (gekocht)",
+      "en": "Lentil Pasta (Cooked)",
+      "sr": "Testenina od sočiva (kuvana)",
+      "pt": "Macarrão de lentilha (cozido)",
+      "ja": "レンズ豆パスタ（茹で）",
+      "fr": "Pâtes de lentilles (cuites)",
+      "it": "Pasta di lenticchie (cotta)",
+      "es": "Pasta de lentejas (cocida)"
+    },
+    "kcal": 125,
+    "p": 9.0,
+    "c": 19.0,
+    "f": 0.8,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_231",
+    "names": {
+      "de": "Kichererbsen-Nudeln (gekocht)",
+      "en": "Chickpea Pasta (Cooked)",
+      "sr": "Testenina od leblebija (kuvana)",
+      "pt": "Macarrão de grão-de-bico (cozido)",
+      "ja": "ひよこ豆パスタ（茹で）",
+      "fr": "Pâtes de pois chiches (cuites)",
+      "it": "Pasta di ceci (cotta)",
+      "es": "Pasta de garbanzos (cocida)"
+    },
+    "kcal": 130,
+    "p": 8.0,
+    "c": 21.0,
+    "f": 1.5,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_232",
+    "names": {
+      "de": "Hähnchensalat",
+      "en": "Chicken Salad",
+      "sr": "Pileća salata",
+      "pt": "Salada de frango",
+      "ja": "チキンサラダ",
+      "fr": "Salade de poulet",
+      "it": "Insalata di pollo",
+      "es": "Ensalada de pollo"
+    },
+    "kcal": 110,
+    "p": 12.0,
+    "c": 4.0,
+    "f": 5.0,
+    "serving": 300.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_233",
+    "names": {
+      "de": "Quinoa-Salat",
+      "en": "Quinoa Salad",
+      "sr": "Kinoa salata",
+      "pt": "Salada de quinoa",
+      "ja": "キヌアサラダ",
+      "fr": "Salade de quinoa",
+      "it": "Insalata di quinoa",
+      "es": "Ensalada de quinoa"
+    },
+    "kcal": 130,
+    "p": 4.5,
+    "c": 18.0,
+    "f": 4.0,
+    "serving": 300.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_234",
+    "names": {
+      "de": "Bohnensalat",
+      "en": "Bean Salad",
+      "sr": "Salata od pasulja",
+      "pt": "Salada de feijão",
+      "ja": "ビーンズサラダ",
+      "fr": "Salade de haricots",
+      "it": "Insalata di fagioli",
+      "es": "Ensalada de frijoles"
+    },
+    "kcal": 90,
+    "p": 5.0,
+    "c": 12.0,
+    "f": 2.0,
+    "serving": 250.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_235",
+    "names": {
+      "de": "Süßkartoffel-Pommes (Ofen)",
+      "en": "Baked Sweet Potato Fries",
+      "sr": "Pomfrit od slatkog krompira (iz rerne)",
+      "pt": "Batata-doce frita no forno",
+      "ja": "ベイクドさつまいもフライ",
+      "fr": "Frites de patate douce au four",
+      "it": "Patatine di patata dolce al forno",
+      "es": "Boniato frito al horno"
+    },
+    "kcal": 155,
+    "p": 1.5,
+    "c": 25.0,
+    "f": 5.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner", "snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_236",
+    "names": {
+      "de": "Kartoffelspalten (Ofen)",
+      "en": "Baked Potato Wedges",
+      "sr": "Krompirići iz rerne",
+      "pt": "Batatas rústicas ao forno",
+      "ja": "ウェッジポテト（オーブン焼き）",
+      "fr": "Potatoes au four",
+      "it": "Spicchi di patate al forno",
+      "es": "Gajos de patata al horno"
+    },
+    "kcal": 135,
+    "p": 2.0,
+    "c": 21.0,
+    "f": 4.5,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_237",
+    "names": {
+      "de": "Ofengemüse",
+      "en": "Roasted Vegetables",
+      "sr": "Povrće iz rerne",
+      "pt": "Legumes assados",
+      "ja": "ローストベジタブル",
+      "fr": "Légumes rôtis",
+      "it": "Verdure al forno",
+      "es": "Verduras asadas"
+    },
+    "kcal": 75,
+    "p": 1.5,
+    "c": 10.0,
+    "f": 3.0,
+    "serving": 250.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_238",
+    "names": {
+      "de": "Hummus",
+      "en": "Hummus",
+      "sr": "Humus",
+      "pt": "Homus",
+      "ja": "フムス",
+      "fr": "Houmous",
+      "it": "Hummus",
+      "es": "Hummus"
+    },
+    "kcal": 250,
+    "p": 7.0,
+    "c": 14.0,
+    "f": 18.0,
+    "serving": 50.0,
+    "meal_type": ["snack", "breakfast"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_239",
+    "names": {
+      "de": "Guacamole",
+      "en": "Guacamole",
+      "sr": "Gvakamole",
+      "pt": "Guacamole",
+      "ja": "ワカモレ",
+      "fr": "Guacamole",
+      "it": "Guacamole",
+      "es": "Guacamole"
+    },
+    "kcal": 160,
+    "p": 2.0,
+    "c": 8.0,
+    "f": 14.0,
+    "serving": 50.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_240",
+    "names": {
+      "de": "Rote-Linsen-Suppe",
+      "en": "Red Lentil Soup",
+      "sr": "Čorba od crvenog sočiva",
+      "pt": "Sopa de lentilha vermelha",
+      "ja": "赤レンズ豆のスープ",
+      "fr": "Soupe de lentilles corail",
+      "it": "Zuppa di lenticchie rosse",
+      "es": "Sopa de lentejas rojas"
+    },
+    "kcal": 75,
+    "p": 4.5,
+    "c": 11.0,
+    "f": 1.5,
+    "serving": 350.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_241",
+    "names": {
+      "de": "Tomatencremesuppe (vegan)",
+      "en": "Vegan Tomato Cream Soup",
+      "sr": "Paradajz čorba (veganska)",
+      "pt": "Sopa de tomate cremosa (vegana)",
+      "ja": "トマトクリームスープ（ヴィーガン）",
+      "fr": "Soupe veloutée à la tomate (végétalienne)",
+      "it": "Crema di pomodoro (vegana)",
+      "es": "Crema de tomate (vegana)"
+    },
+    "kcal": 45,
+    "p": 1.0,
+    "c": 6.0,
+    "f": 2.0,
+    "serving": 300.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_242",
+    "names": {
+      "de": "Spinat-Smoothie",
+      "en": "Spinach Smoothie",
+      "sr": "Smuti od spanaća",
+      "pt": "Vitamina de espinafre",
+      "ja": "ほうれん草スムージー",
+      "fr": "Smoothie aux épinards",
+      "it": "Frullato agli spinaci",
+      "es": "Batido de espinacas"
+    },
+    "kcal": 50,
+    "p": 2.0,
+    "c": 10.0,
+    "f": 0.5,
+    "serving": 300.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_243",
+    "names": {
+      "de": "Beeren-Smoothie",
+      "en": "Berry Smoothie",
+      "sr": "Smuti od šumskog voća",
+      "pt": "Vitamina de frutas vermelhas",
+      "ja": "ベリースムージー",
+      "fr": "Smoothie aux fruits rouges",
+      "it": "Frullato ai frutti di bosco",
+      "es": "Batido de frutos rojos"
+    },
+    "kcal": 60,
+    "p": 1.0,
+    "c": 12.0,
+    "f": 0.5,
+    "serving": 300.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_244",
+    "names": {
+      "de": "Protein-Eiskaffee",
+      "en": "Protein Iced Coffee",
+      "sr": "Proteinska ledena kafa",
+      "pt": "Café gelado proteico",
+      "ja": "プロテインアイスコーヒー",
+      "fr": "Café glacé protéiné",
+      "it": "Caffè freddo proteico",
+      "es": "Café helado proteico"
+    },
+    "kcal": 45,
+    "p": 8.0,
+    "c": 2.0,
+    "f": 0.5,
+    "serving": 300.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_245",
+    "names": {
+      "de": "Hähnchenbrust-Aufschnitt",
+      "en": "Chicken Breast Cold Cuts",
+      "sr": "Pileća prsa (suhomesnato)",
+      "pt": "Peito de frango fatiado",
+      "ja": "スライスチキンブレスト",
+      "fr": "Tranches de blanc de poulet",
+      "it": "Petto di pollo a fette",
+      "es": "Fiambre de pechuga de pollo"
+    },
+    "kcal": 105,
+    "p": 21.0,
+    "c": 1.0,
+    "f": 1.5,
+    "serving": 50.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_246",
+    "names": {
+      "de": "Putenbrust-Aufschnitt",
+      "en": "Turkey Breast Cold Cuts",
+      "sr": "Ćureća prsa (suhomesnato)",
+      "pt": "Peito de peru fatiado",
+      "ja": "スラ​​イスターキーブレスト",
+      "fr": "Tranches de blanc de dinde",
+      "it": "Petto di tacchino a fette",
+      "es": "Fiambre de pechuga de pavo"
+    },
+    "kcal": 102,
+    "p": 22.0,
+    "c": 1.0,
+    "f": 1.0,
+    "serving": 50.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_247",
+    "names": {
+      "de": "Vegetarische Frikadellen",
+      "en": "Vegetarian Meatballs",
+      "sr": "Vegetarijanske ćufte",
+      "pt": "Almôndegas vegetarianas",
+      "ja": "ベジタリアンミートボール",
+      "fr": "Boulettes végétariennes",
+      "it": "Polpette vegetariane",
+      "es": "Albóndigas vegetarianas"
+    },
+    "kcal": 175,
+    "p": 14.0,
+    "c": 8.0,
+    "f": 9.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_248",
+    "names": {
+      "de": "Vegane Bratwurst",
+      "en": "Vegan Bratwurst",
+      "sr": "Veganska kobasica",
+      "pt": "Salsicha vegana",
+      "ja": "ヴィーガンブラートヴルスト",
+      "fr": "Saucisse végétalienne",
+      "it": "Salsiccia vegana",
+      "es": "Salchicha vegana"
+    },
+    "kcal": 210,
+    "p": 13.0,
+    "c": 5.0,
+    "f": 15.0,
+    "serving": 100.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_249",
+    "names": {
+      "de": "Sojajoghurt (ungesüßt)",
+      "en": "Unsweetened Soy Yogurt",
+      "sr": "Sojin jogurt (nezaslađen)",
+      "pt": "Iogurte de soja (sem açúcar)",
+      "ja": "豆乳ヨーグルト（無糖）",
+      "fr": "Yaourt au soja (sans sucre)",
+      "it": "Yogurt di soia (senza zucchero)",
+      "es": "Yogur de soja (sin azúcar)"
+    },
+    "kcal": 45,
+    "p": 4.0,
+    "c": 2.0,
+    "f": 2.5,
+    "serving": 150.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_250",
+    "names": {
+      "de": "Haferjoghurt",
+      "en": "Oat Yogurt",
+      "sr": "Ovsni jogurt",
+      "pt": "Iogurte de aveia",
+      "ja": "オーツヨーグルト",
+      "fr": "Yaourt à l'avoine",
+      "it": "Yogurt di avena",
+      "es": "Yogur de avena"
+    },
+    "kcal": 75,
+    "p": 1.0,
+    "c": 11.0,
+    "f": 3.0,
+    "serving": 150.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_251",
+    "names": {
+      "de": "Mandeljoghurt",
+      "en": "Almond Yogurt",
+      "sr": "Bademov jogurt",
+      "pt": "Iogurte de amêndoa",
+      "ja": "アーモンドヨーグルト",
+      "fr": "Yaourt aux amandes",
+      "it": "Yogurt di mandorla",
+      "es": "Yogur de almendras"
+    },
+    "kcal": 65,
+    "p": 1.5,
+    "c": 3.0,
+    "f": 5.0,
+    "serving": 150.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_252",
+    "names": {
+      "de": "Pumpernickel",
+      "en": "Pumpernickel Bread",
+      "sr": "Pumpernikl hleb",
+      "pt": "Pão Pumpernickel",
+      "ja": "プンパーニッケル",
+      "fr": "Pain Pumpernickel",
+      "it": "Pane Pumpernickel",
+      "es": "Pan Pumpernickel"
+    },
+    "kcal": 190,
+    "p": 5.0,
+    "c": 36.0,
+    "f": 1.5,
+    "serving": 100.0,
+    "meal_type": ["breakfast", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_253",
+    "names": {
+      "de": "Knäckebrot",
+      "en": "Crispbread",
+      "sr": "Hrskavi hleb",
+      "pt": "Pão sueco (Crispbread)",
+      "ja": "クリスプブレッド",
+      "fr": "Pain croustillant",
+      "it": "Pane croccante",
+      "es": "Pan crujiente"
+    },
+    "kcal": 350,
+    "p": 10.0,
+    "c": 65.0,
+    "f": 2.0,
+    "serving": 30.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_254",
+    "names": {
+      "de": "Reisnudeln (gekocht)",
+      "en": "Rice Noodles (Cooked)",
+      "sr": "Pirinčani rezanci (kuvani)",
+      "pt": "Macarrão de arroz (cozido)",
+      "ja": "ライスヌードル（茹で）",
+      "fr": "Nouilles de riz (cuites)",
+      "it": "Spaghetti di riso (cotti)",
+      "es": "Fideos de arroz (cocidos)"
+    },
+    "kcal": 109,
+    "p": 1.0,
+    "c": 24.0,
+    "f": 0.2,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_255",
+    "names": {
+      "de": "Glasnudeln (gekocht)",
+      "en": "Glass Noodles (Cooked)",
+      "sr": "Stakleni rezanci (kuvani)",
+      "pt": "Macarrão de vidro (cozido)",
+      "ja": "春雨（茹で）",
+      "fr": "Nouilles de verre (cuites)",
+      "it": "Spaghetti di soia (cotti)",
+      "es": "Fideos de cristal (cocidos)"
+    },
+    "kcal": 85,
+    "p": 0.1,
+    "c": 20.0,
+    "f": 0.1,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_256",
+    "names": {
+      "de": "Udon-Nudeln (gekocht)",
+      "en": "Udon Noodles (Cooked)",
+      "sr": "Udon rezanci (kuvani)",
+      "pt": "Macarrão Udon (cozido)",
+      "ja": "うどん（茹で）",
+      "fr": "Nouilles Udon (cuites)",
+      "it": "Noodles Udon (cotti)",
+      "es": "Fideos Udon (cocidos)"
+    },
+    "kcal": 130,
+    "p": 3.5,
+    "c": 27.0,
+    "f": 0.5,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_257",
+    "names": {
+      "de": "Sobanudeln (gekocht)",
+      "en": "Soba Noodles (Cooked)",
+      "sr": "Soba rezanci (kuvani)",
+      "pt": "Macarrão Soba (cozido)",
+      "ja": "そば（茹で）",
+      "fr": "Nouilles Soba (cuites)",
+      "it": "Noodles Soba (cotti)",
+      "es": "Fideos Soba (cocidos)"
+    },
+    "kcal": 99,
+    "p": 5.0,
+    "c": 21.0,
+    "f": 0.1,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_258",
+    "names": {
+      "de": "Hüttenkäse mit Kräutern",
+      "en": "Cottage Cheese with Herbs",
+      "sr": "Zrnasti sir sa začinskim biljem",
+      "pt": "Queijo cottage com ervas",
+      "ja": "ハーブ入りカッテージチーズ",
+      "fr": "Fromage cottage aux fines herbes",
+      "it": "Fiocchi di latte alle erbe",
+      "es": "Queso cottage con finas hierbas"
+    },
+    "kcal": 85,
+    "p": 11.0,
+    "c": 3.0,
+    "f": 2.5,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_259",
+    "names": {
+      "de": "Protein-Brot mit Avocado",
+      "en": "Protein Bread with Avocado",
+      "sr": "Proteinski hleb sa avokadom",
+      "pt": "Pão proteico com abacate",
+      "ja": "プロテインパンとアボカド",
+      "fr": "Pain protéiné à l'avocat",
+      "it": "Pane proteico con avocado",
+      "es": "Pan proteico con aguacate"
+    },
+    "kcal": 210,
+    "p": 12.0,
+    "c": 10.0,
+    "f": 13.0,
+    "serving": 150.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_260",
+    "names": {
+      "de": "Vollkorn-Sandwich mit Pute",
+      "en": "Whole Wheat Turkey Sandwich",
+      "sr": "Sendvič od integralnog hleba sa ćuretinom",
+      "pt": "Sanduíche integral de peru",
+      "ja": "全粒粉ターキーサンドイッチ",
+      "fr": "Sandwich complet à la dinde",
+      "it": "Panino integrale alla fesa di tacchino",
+      "es": "Sándwich integral de pavo"
+    },
+    "kcal": 180,
+    "p": 12.0,
+    "c": 22.0,
+    "f": 4.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "breakfast"],
+    "diet_tags": ["standard", "high_protein"]
+  },
+  {
+    "id": "meal_261",
+    "names": {
+      "de": "Thunfisch-Wrap",
+      "en": "Tuna Wrap",
+      "sr": "Tortilja sa tunjevinom",
+      "pt": "Wrap de atum",
+      "ja": "ツナラップ",
+      "fr": "Wrap au thon",
+      "it": "Wrap al tonno",
+      "es": "Wrap de atún"
+    },
+    "kcal": 165,
+    "p": 13.0,
+    "c": 18.0,
+    "f": 4.5,
+    "serving": 250.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["pescatarian", "high_protein"]
+  },
+  {
+    "id": "meal_262",
+    "names": {
+      "de": "Gefüllte Zucchini (Hackfleisch)",
+      "en": "Stuffed Zucchini with Minced Meat",
+      "sr": "Punjene tikvice (mleveno meso)",
+      "pt": "Abobrinha recheada com carne moída",
+      "ja": "ズッキーニの肉詰め",
+      "fr": "Courgette farcie à la viande hachée",
+      "it": "Zucchine ripiene di carne",
+      "es": "Calabacín relleno de carne picada"
+    },
+    "kcal": 110,
+    "p": 9.0,
+    "c": 4.0,
+    "f": 6.0,
+    "serving": 300.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_263",
+    "names": {
+      "de": "Gefüllte Zucchini (vegan)",
+      "en": "Vegan Stuffed Zucchini",
+      "sr": "Punjene tikvice (veganske)",
+      "pt": "Abobrinha recheada vegana",
+      "ja": "ヴィーガンズッキーニの詰め物",
+      "fr": "Courgette farcie végétalienne",
+      "it": "Zucchine ripiene vegane",
+      "es": "Calabacín relleno vegano"
+    },
+    "kcal": 95,
+    "p": 6.0,
+    "c": 7.0,
+    "f": 4.0,
+    "serving": 300.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_264",
+    "names": {
+      "de": "Omelett mit Paprika",
+      "en": "Bell Pepper Omelet",
+      "sr": "Omlet sa paprikom",
+      "pt": "Omelete com pimentão",
+      "ja": "パプリカオムレツ",
+      "fr": "Omelette aux poivrons",
+      "it": "Omelette ai peperoni",
+      "es": "Tortilla con pimiento"
+    },
+    "kcal": 110,
+    "p": 9.0,
+    "c": 3.0,
+    "f": 7.0,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "dinner"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_265",
+    "names": {
+      "de": "Rührei mit Champignons",
+      "en": "Scrambled Eggs with Mushrooms",
+      "sr": "Kajgana sa šampinjonima",
+      "pt": "Ovos mexidos com cogumelos",
+      "ja": "マッシュルーム入りスクランブルエッグ",
+      "fr": "Œufs brouillés aux champignons",
+      "it": "Uova strapazzate con funghi",
+      "es": "Huevos revueltos con champiñones"
+    },
+    "kcal": 105,
+    "p": 9.0,
+    "c": 2.0,
+    "f": 7.0,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "dinner"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_266",
+    "names": {
+      "de": "Apfel mit Erdnussbutter",
+      "en": "Apple with Peanut Butter",
+      "sr": "Jabuka sa kikiriki puterom",
+      "pt": "Maçã com manteiga de amendoim",
+      "ja": "りんごとピーナッツバター",
+      "fr": "Pomme au beurre de cacahuète",
+      "it": "Mela con burro di arachidi",
+      "es": "Manzana con mantequilla de cacahuete"
+    },
+    "kcal": 120,
+    "p": 3.0,
+    "c": 12.0,
+    "f": 6.0,
+    "serving": 150.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_267",
+    "names": {
+      "de": "Selleriesticks mit Hummus",
+      "en": "Celery with Hummus",
+      "sr": "Celer sa humusom",
+      "pt": "Aipo com homus",
+      "ja": "セロリとフムス",
+      "fr": "Bâtonnets de céleri au houmous",
+      "it": "Sedano con hummus",
+      "es": "Apio con hummus"
+    },
+    "kcal": 85,
+    "p": 3.0,
+    "c": 5.0,
+    "f": 5.5,
+    "serving": 150.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_268",
+    "names": {
+      "de": "Karottensticks mit Hummus",
+      "en": "Carrot Sticks with Hummus",
+      "sr": "Šargarepa sa humusom",
+      "pt": "Palitos de cenoura com homus",
+      "ja": "にんじんとフムス",
+      "fr": "Bâtonnets de carottes au houmous",
+      "it": "Carote con hummus",
+      "es": "Zanahoria con hummus"
+    },
+    "kcal": 105,
+    "p": 3.5,
+    "c": 9.0,
+    "f": 5.5,
+    "serving": 150.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_269",
+    "names": {
+      "de": "Gekochte grüne Bohnen",
+      "en": "Boiled Green Beans",
+      "sr": "Kuvana boranija",
+      "pt": "Vagem cozida",
+      "ja": "茹でインゲン豆",
+      "fr": "Haricots verts cuits",
+      "it": "Fagiolini cotti",
+      "es": "Judías verdes cocidas"
+    },
+    "kcal": 35,
+    "p": 2.0,
+    "c": 6.0,
+    "f": 0.2,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_270",
+    "names": {
+      "de": "Rotkohl (gekocht)",
+      "en": "Cooked Red Cabbage",
+      "sr": "Kuvani crveni kupus",
+      "pt": "Repolho roxo cozido",
+      "ja": "茹で赤キャベツ",
+      "fr": "Chou rouge cuit",
+      "it": "Cavolo rosso cotto",
+      "es": "Lombarda cocida"
+    },
+    "kcal": 45,
+    "p": 1.5,
+    "c": 8.0,
+    "f": 0.5,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+{
+    "id": "meal_271",
+    "names": {
+      "de": "Hähnchen-Fajita Wrap",
+      "en": "Chicken Fajita Wrap",
+      "sr": "Fahita tortilja sa piletinom",
+      "pt": "Wrap Fajita de Frango",
+      "ja": "チキンファヒータラップ",
+      "fr": "Wrap Fajita au poulet",
+      "it": "Wrap Fajita di pollo",
+      "es": "Wrap Fajita de pollo"
+    },
+    "kcal": 185,
+    "p": 11.0,
+    "c": 20.0,
+    "f": 6.0,
+    "serving": 250.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "high_protein"]
+  },
+  {
+    "id": "meal_272",
+    "names": {
+      "de": "Falafel-Bowl",
+      "en": "Falafel Bowl",
+      "sr": "Falafel činija",
+      "pt": "Bowl de Falafel",
+      "ja": "ファラフェルボウル",
+      "fr": "Bol de Falafel",
+      "it": "Bowl di Falafel",
+      "es": "Bowl de Falafel"
+    },
+    "kcal": 145,
+    "p": 6.0,
+    "c": 16.0,
+    "f": 6.0,
+    "serving": 350.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_273",
+    "names": {
+      "de": "Magerquark mit Himbeeren",
+      "en": "Low-Fat Quark with Raspberries",
+      "sr": "Posni kvark sa malinama",
+      "pt": "Quark magro com framboesas",
+      "ja": "低脂肪クワルクとラズベリー",
+      "fr": "Fromage blanc maigre aux framboises",
+      "it": "Quark magro con lamponi",
+      "es": "Quark desnatado con frambuesas"
+    },
+    "kcal": 62,
+    "p": 10.0,
+    "c": 5.0,
+    "f": 0.2,
+    "serving": 250.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_274",
+    "names": {
+      "de": "Lachs-Avocado-Sushi",
+      "en": "Salmon Avocado Sushi",
+      "sr": "Suši sa lososom i avokadom",
+      "pt": "Sushi de salmão e abacate",
+      "ja": "サーモンアボカド寿司",
+      "fr": "Sushi saumon avocat",
+      "it": "Sushi salmone e avocado",
+      "es": "Sushi de salmón y aguacate"
+    },
+    "kcal": 168,
+    "p": 7.0,
+    "c": 22.0,
+    "f": 5.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["pescatarian"]
+  },
+  {
+    "id": "meal_275",
+    "names": {
+      "de": "Zucchini-Puffer",
+      "en": "Zucchini Fritters",
+      "sr": "Uštipci od tikvica",
+      "pt": "Bolinhos de abobrinha",
+      "ja": "ズッキーニのフリッター",
+      "fr": "Beignets de courgettes",
+      "it": "Frittelle di zucchine",
+      "es": "Buñuelos de calabacín"
+    },
+    "kcal": 115,
+    "p": 4.0,
+    "c": 8.0,
+    "f": 7.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_276",
+    "names": {
+      "de": "Rindfleisch-Patty (gegrillt)",
+      "en": "Grilled Beef Patty",
+      "sr": "Goveđa pljeskavica (grilovana)",
+      "pt": "Hambúrguer de carne (grelhado)",
+      "ja": "グリルビーフパティ",
+      "fr": "Steak haché grillé",
+      "it": "Hamburger di manzo grigliato",
+      "es": "Hamburguesa de ternera a la parrilla"
+    },
+    "kcal": 220,
+    "p": 24.0,
+    "c": 0.0,
+    "f": 13.0,
+    "serving": 120.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_277",
+    "names": {
+      "de": "Kaisergemüse (gekocht)",
+      "en": "Mixed Vegetables (Cooked)",
+      "sr": "Mešano povrće (kuvano)",
+      "pt": "Legumes mistos (cozidos)",
+      "ja": "ミックスベジタブル（茹で）",
+      "fr": "Mélange de légumes (cuits)",
+      "it": "Verdure miste (cotte)",
+      "es": "Verduras mixtas (cocidas)"
+    },
+    "kcal": 30,
+    "p": 2.0,
+    "c": 4.0,
+    "f": 0.5,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_278",
+    "names": {
+      "de": "Erbsen (gekocht)",
+      "en": "Boiled Peas",
+      "sr": "Grašak (kuvan)",
+      "pt": "Ervilhas (cozidas)",
+      "ja": "エンドウ豆（茹で）",
+      "fr": "Petits pois (cuits)",
+      "it": "Piselli (cotti)",
+      "es": "Guisantes (cocidos)"
+    },
+    "kcal": 70,
+    "p": 5.0,
+    "c": 11.0,
+    "f": 0.4,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_279",
+    "names": {
+      "de": "Mais (gekocht)",
+      "en": "Boiled Corn",
+      "sr": "Kukuruz (kuvan)",
+      "pt": "Milho (cozido)",
+      "ja": "とうもろこし（茹で）",
+      "fr": "Maïs (cuit)",
+      "it": "Mais (cotto)",
+      "es": "Maíz (cocido)"
+    },
+    "kcal": 86,
+    "p": 3.0,
+    "c": 16.0,
+    "f": 1.2,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_280",
+    "names": {
+      "de": "Linsen-Dal",
+      "en": "Lentil Dal",
+      "sr": "Dal od sočiva",
+      "pt": "Dal de Lentilhas",
+      "ja": "レンズ豆のダル",
+      "fr": "Dhal de lentilles",
+      "it": "Dal di lenticchie",
+      "es": "Dal de lentejas"
+    },
+    "kcal": 110,
+    "p": 6.0,
+    "c": 14.0,
+    "f": 3.0,
+    "serving": 350.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_281",
+    "names": {
+      "de": "Vollkorn-Toast mit Erdnussbutter",
+      "en": "Whole Wheat Toast with Peanut Butter",
+      "sr": "Integralni tost sa kikiriki puterom",
+      "pt": "Torrada integral com manteiga de amendoim",
+      "ja": "全粒粉トーストのピーナッツバター添え",
+      "fr": "Toast complet au beurre de cacahuète",
+      "it": "Toast integrale con burro di arachidi",
+      "es": "Tostada integral con mantequilla de cacahuete"
+    },
+    "kcal": 320,
+    "p": 12.0,
+    "c": 35.0,
+    "f": 14.0,
+    "serving": 100.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_282",
+    "names": {
+      "de": "Vollkorn-Toast mit Avocado",
+      "en": "Whole Wheat Toast with Avocado",
+      "sr": "Integralni tost sa avokadom",
+      "pt": "Torrada integral com abacate",
+      "ja": "全粒粉トーストのアボカド添え",
+      "fr": "Toast complet à l'avocat",
+      "it": "Toast integrale con avocado",
+      "es": "Tostada integral con aguacate"
+    },
+    "kcal": 215,
+    "p": 5.0,
+    "c": 25.0,
+    "f": 10.0,
+    "serving": 120.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_283",
+    "names": {
+      "de": "Haferbrei mit Apfel und Zimt",
+      "en": "Oatmeal with Apple and Cinnamon",
+      "sr": "Ovsena kaša sa jabukom i cimetom",
+      "pt": "Aveia com maçã e canela",
+      "ja": "りんごとシナモンのオートミール",
+      "fr": "Flocons d'avoine pomme et cannelle",
+      "it": "Porridge con mela e cannella",
+      "es": "Avena con manzana y canela"
+    },
+    "kcal": 110,
+    "p": 3.0,
+    "c": 20.0,
+    "f": 1.5,
+    "serving": 250.0,
+    "meal_type": ["breakfast"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_284",
+    "names": {
+      "de": "Couscous-Salat",
+      "en": "Couscous Salad",
+      "sr": "Kuskus salata",
+      "pt": "Salada de Cuscuz",
+      "ja": "クスクスサラダ",
+      "fr": "Salade de couscous",
+      "it": "Insalata di couscous",
+      "es": "Ensalada de cuscús"
+    },
+    "kcal": 125,
+    "p": 4.0,
+    "c": 20.0,
+    "f": 3.0,
+    "serving": 250.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_285",
+    "names": {
+      "de": "Tabbouleh (Bulgur-Salat)",
+      "en": "Tabbouleh",
+      "sr": "Tabule salata",
+      "pt": "Tabule",
+      "ja": "タブレ（ブルグルサラダ）",
+      "fr": "Taboulé",
+      "it": "Tabbouleh",
+      "es": "Tabulé"
+    },
+    "kcal": 135,
+    "p": 3.0,
+    "c": 18.0,
+    "f": 5.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_286",
+    "names": {
+      "de": "Tofu-Scramble (Veganes Rührei)",
+      "en": "Tofu Scramble",
+      "sr": "Kajgana od tofua (veganska)",
+      "pt": "Tofu mexido",
+      "ja": "豆腐スクランブル",
+      "fr": "Tofu brouillé",
+      "it": "Tofu strapazzato",
+      "es": "Revuelto de tofu"
+    },
+    "kcal": 120,
+    "p": 12.0,
+    "c": 3.0,
+    "f": 6.0,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_287",
+    "names": {
+      "de": "Chia-Pudding mit Beeren",
+      "en": "Chia Pudding with Berries",
+      "sr": "Čia puding sa šumskim voćem",
+      "pt": "Pudim de chia com frutas vermelhas",
+      "ja": "チアプディングのベリー添え",
+      "fr": "Pudding de chia aux baies",
+      "it": "Pudding di chia con frutti di bosco",
+      "es": "Pudín de chía con frutos rojos"
+    },
+    "kcal": 115,
+    "p": 4.0,
+    "c": 10.0,
+    "f": 6.0,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_288",
+    "names": {
+      "de": "Hüttenkäse mit Ananas",
+      "en": "Cottage Cheese with Pineapple",
+      "sr": "Zrnasti sir sa ananasom",
+      "pt": "Queijo cottage com abacaxi",
+      "ja": "パイナップル入りカッテージチーズ",
+      "fr": "Fromage cottage à l'ananas",
+      "it": "Fiocchi di latte con ananas",
+      "es": "Queso cottage con piña"
+    },
+    "kcal": 80,
+    "p": 10.0,
+    "c": 7.0,
+    "f": 1.5,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_289",
+    "names": {
+      "de": "Griechischer Joghurt mit Mango",
+      "en": "Greek Yogurt with Mango",
+      "sr": "Grčki jogurt sa mangom",
+      "pt": "Iogurte grego com manga",
+      "ja": "マンゴー入りギリシャヨーグルト",
+      "fr": "Yaourt grec à la mangue",
+      "it": "Yogurt greco con mango",
+      "es": "Yogur griego con mango"
+    },
+    "kcal": 90,
+    "p": 8.0,
+    "c": 9.0,
+    "f": 2.0,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_290",
+    "names": {
+      "de": "Sojajoghurt mit Blaubeeren",
+      "en": "Soy Yogurt with Blueberries",
+      "sr": "Sojin jogurt sa borovnicama",
+      "pt": "Iogurte de soja com mirtilos",
+      "ja": "ブルーベリー入り豆乳ヨーグルト",
+      "fr": "Yaourt de soja aux myrtilles",
+      "it": "Yogurt di soia con mirtilli",
+      "es": "Yogur de soja con arándanos"
+    },
+    "kcal": 55,
+    "p": 4.0,
+    "c": 6.0,
+    "f": 1.5,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_291",
+    "names": {
+      "de": "Skyr mit Apfel",
+      "en": "Skyr with Apple",
+      "sr": "Skyr sa jabukom",
+      "pt": "Skyr com maçã",
+      "ja": "りんご入りスキール",
+      "fr": "Skyr aux pommes",
+      "it": "Skyr con mela",
+      "es": "Skyr con manzana"
+    },
+    "kcal": 65,
+    "p": 9.0,
+    "c": 6.0,
+    "f": 0.2,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_292",
+    "names": {
+      "de": "Rote-Linsen-Pasta mit Tomatensauce",
+      "en": "Red Lentil Pasta with Tomato Sauce",
+      "sr": "Testenina od crvenog sočiva sa paradajz sosom",
+      "pt": "Macarrão de lentilha vermelha com molho de tomate",
+      "ja": "赤レンズ豆パスタのトマトソース",
+      "fr": "Pâtes de lentilles corail sauce tomate",
+      "it": "Pasta di lenticchie rosse al pomodoro",
+      "es": "Pasta de lentejas rojas con salsa de tomate"
+    },
+    "kcal": 115,
+    "p": 7.0,
+    "c": 17.0,
+    "f": 1.5,
+    "serving": 350.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_293",
+    "names": {
+      "de": "Kichererbsen-Pasta mit Pesto",
+      "en": "Chickpea Pasta with Pesto",
+      "sr": "Testenina od leblebija sa pestom",
+      "pt": "Macarrão de grão-de-bico com pesto",
+      "ja": "ひよこ豆パスタのペストソース",
+      "fr": "Pâtes de pois chiches au pesto",
+      "it": "Pasta di ceci al pesto",
+      "es": "Pasta de garbanzos con pesto"
+    },
+    "kcal": 185,
+    "p": 8.0,
+    "c": 18.0,
+    "f": 8.0,
+    "serving": 300.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegetarian"]
+  },
+  {
+    "id": "meal_294",
+    "names": {
+      "de": "Thunfisch-Frikadellen",
+      "en": "Tuna Patties",
+      "sr": "Pljeskavice od tunjevine",
+      "pt": "Hambúrguer de atum",
+      "ja": "ツナパティ",
+      "fr": "Croquettes de thon",
+      "it": "Polpette di tonno",
+      "es": "Hamburguesas de atún"
+    },
+    "kcal": 165,
+    "p": 18.0,
+    "c": 5.0,
+    "f": 7.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["pescatarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_295",
+    "names": {
+      "de": "Puten-Frikadellen",
+      "en": "Turkey Patties",
+      "sr": "Ćureće pljeskavice",
+      "pt": "Hambúrguer de peru",
+      "ja": "ターキーパティ",
+      "fr": "Croquettes de dinde",
+      "it": "Polpette di tacchino",
+      "es": "Hamburguesas de pavo"
+    },
+    "kcal": 155,
+    "p": 19.0,
+    "c": 4.0,
+    "f": 6.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_296",
+    "names": {
+      "de": "Glasnudelsalat",
+      "en": "Glass Noodle Salad",
+      "sr": "Salata sa staklenim rezancima",
+      "pt": "Salada de macarrão de vidro",
+      "ja": "春雨サラダ",
+      "fr": "Salade de nouilles de verre",
+      "it": "Insalata di spaghetti di soia",
+      "es": "Ensalada de fideos de cristal"
+    },
+    "kcal": 95,
+    "p": 2.0,
+    "c": 18.0,
+    "f": 1.5,
+    "serving": 250.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_297",
+    "names": {
+      "de": "Sommerrollen",
+      "en": "Summer Rolls",
+      "sr": "Letnje rolnice",
+      "pt": "Rolinhos de verão",
+      "ja": "生春巻き",
+      "fr": "Rouleaux de printemps",
+      "it": "Involtini estivi",
+      "es": "Rollitos de verano"
+    },
+    "kcal": 110,
+    "p": 4.0,
+    "c": 21.0,
+    "f": 1.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_298",
+    "names": {
+      "de": "Rührei mit Feta",
+      "en": "Scrambled Eggs with Feta",
+      "sr": "Kajgana sa fetom",
+      "pt": "Ovos mexidos com feta",
+      "ja": "フェタチーズ入りスクランブルエッグ",
+      "fr": "Œufs brouillés à la feta",
+      "it": "Uova strapazzate con feta",
+      "es": "Huevos revueltos con queso feta"
+    },
+    "kcal": 145,
+    "p": 11.0,
+    "c": 1.5,
+    "f": 10.0,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "dinner"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_299",
+    "names": {
+      "de": "Omelett mit Lachs",
+      "en": "Omelet with Salmon",
+      "sr": "Omlet sa lososom",
+      "pt": "Omelete com salmão",
+      "ja": "サーモンオムレツ",
+      "fr": "Omelette au saumon",
+      "it": "Omelette al salmone",
+      "es": "Tortilla con salmón"
+    },
+    "kcal": 155,
+    "p": 14.0,
+    "c": 1.0,
+    "f": 10.0,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "dinner"],
+    "diet_tags": ["pescatarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_300",
+    "names": {
+      "de": "Baked Beans (in Tomatensauce)",
+      "en": "Baked Beans",
+      "sr": "Pečeni pasulj",
+      "pt": "Feijão cozido (Baked Beans)",
+      "ja": "ベイクドビーンズ",
+      "fr": "Haricots blancs à la tomate",
+      "it": "Fagioli al forno",
+      "es": "Alubias al horno"
+    },
+    "kcal": 95,
+    "p": 5.0,
+    "c": 15.0,
+    "f": 0.5,
+    "serving": 200.0,
+    "meal_type": ["breakfast", "lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_301",
+    "names": {
+      "de": "Soja-Geschnetzeltes (gebraten)",
+      "en": "Pan-fried Soy Chunks",
+      "sr": "Prženi sojini komadići",
+      "pt": "Pedaços de soja salteados",
+      "ja": "大豆ミート炒め",
+      "fr": "Émincé de soja poêlé",
+      "it": "Bocconcini di soia in padella",
+      "es": "Bocados de soja salteados"
+    },
+    "kcal": 145,
+    "p": 18.0,
+    "c": 6.0,
+    "f": 4.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_302",
+    "names": {
+      "de": "Teriyaki-Hähnchen",
+      "en": "Teriyaki Chicken",
+      "sr": "Terijaki piletina",
+      "pt": "Frango Teriyaki",
+      "ja": "照り焼きチキン",
+      "fr": "Poulet Teriyaki",
+      "it": "Pollo Teriyaki",
+      "es": "Pollo Teriyaki"
+    },
+    "kcal": 150,
+    "p": 22.0,
+    "c": 8.0,
+    "f": 3.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "high_protein"]
+  },
+  {
+    "id": "meal_303",
+    "names": {
+      "de": "Teriyaki-Tofu",
+      "en": "Teriyaki Tofu",
+      "sr": "Terijaki tofu",
+      "pt": "Tofu Teriyaki",
+      "ja": "照り焼き豆腐",
+      "fr": "Tofu Teriyaki",
+      "it": "Tofu Teriyaki",
+      "es": "Tofu Teriyaki"
+    },
+    "kcal": 165,
+    "p": 14.0,
+    "c": 9.0,
+    "f": 7.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_304",
+    "names": {
+      "de": "Hähnchen-Nuggets (Ofen)",
+      "en": "Baked Chicken Nuggets",
+      "sr": "Pileći medaljoni (iz rerne)",
+      "pt": "Nuggets de frango assados",
+      "ja": "ベイクドチキンナゲット",
+      "fr": "Nuggets de poulet au four",
+      "it": "Crocchette di pollo al forno",
+      "es": "Nuggets de pollo al horno"
+    },
+    "kcal": 190,
+    "p": 16.0,
+    "c": 14.0,
+    "f": 7.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "high_protein"]
+  },
+  {
+    "id": "meal_305",
+    "names": {
+      "de": "Vegane Nuggets (Ofen)",
+      "en": "Baked Vegan Nuggets",
+      "sr": "Veganski medaljoni (iz rerne)",
+      "pt": "Nuggets veganos assados",
+      "ja": "ベイクドヴィーガンナゲット",
+      "fr": "Nuggets végétaliens au four",
+      "it": "Crocchette vegane al forno",
+      "es": "Nuggets veganos al horno"
+    },
+    "kcal": 210,
+    "p": 12.0,
+    "c": 16.0,
+    "f": 10.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_306",
+    "names": {
+      "de": "Protein-Waffeln",
+      "en": "Protein Waffles",
+      "sr": "Proteinske vafle",
+      "pt": "Waffles proteicos",
+      "ja": "プロテインワッフル",
+      "fr": "Gaufres protéinées",
+      "it": "Waffle proteici",
+      "es": "Gofres proteicos"
+    },
+    "kcal": 185,
+    "p": 15.0,
+    "c": 18.0,
+    "f": 5.0,
+    "serving": 150.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_307",
+    "names": {
+      "de": "Protein-Fluff",
+      "en": "Protein Fluff",
+      "sr": "Proteinski flaf",
+      "pt": "Fluff de proteína",
+      "ja": "プロテインフラフ",
+      "fr": "Mousse protéinée",
+      "it": "Spuma proteica",
+      "es": "Mousse de proteínas"
+    },
+    "kcal": 55,
+    "p": 10.0,
+    "c": 3.0,
+    "f": 0.5,
+    "serving": 250.0,
+    "meal_type": ["snack", "dessert"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_308",
+    "names": {
+      "de": "Buchweizen (gekocht)",
+      "en": "Cooked Buckwheat",
+      "sr": "Heljda (kuvana)",
+      "pt": "Trigo sarraceno (cozido)",
+      "ja": "そばの実（茹で）",
+      "fr": "Sarrasin (cuit)",
+      "it": "Grano saraceno (cotto)",
+      "es": "Trigo sarraceno (cocido)"
+    },
+    "kcal": 110,
+    "p": 4.0,
+    "c": 22.0,
+    "f": 1.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_309",
+    "names": {
+      "de": "Blumenkohlreis (gebraten)",
+      "en": "Fried Cauliflower Rice",
+      "sr": "Prženi pirinač od karfiola",
+      "pt": "Arroz de couve-flor frito",
+      "ja": "カリフラワーライス炒め",
+      "fr": "Riz de chou-fleur poêlé",
+      "it": "Riso di cavolfiore saltato",
+      "es": "Arroz de coliflor frito"
+    },
+    "kcal": 45,
+    "p": 2.0,
+    "c": 4.0,
+    "f": 2.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_310",
+    "names": {
+      "de": "Zucchini-Spaghetti mit Bolognese",
+      "en": "Zoodles Bolognese",
+      "sr": "Zoodles Bolonjeze",
+      "pt": "Macarrão de abobrinha à bolonhesa",
+      "ja": "ズードルボロネーゼ",
+      "fr": "Zoodles bolognaise",
+      "it": "Zoodles alla bolognese",
+      "es": "Zoodles boloñesa"
+    },
+    "kcal": 85,
+    "p": 7.0,
+    "c": 5.0,
+    "f": 4.0,
+    "serving": 350.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_311",
+    "names": {
+      "de": "Zucchini-Spaghetti mit Linsen-Bolognese",
+      "en": "Zoodles Lentil Bolognese",
+      "sr": "Zoodles Bolonjeze od sočiva",
+      "pt": "Macarrão de abobrinha com bolonhesa de lentilha",
+      "ja": "ズードルレンズ豆ボロネーゼ",
+      "fr": "Zoodles bolognaise aux lentilles",
+      "it": "Zoodles con ragù di lenticchie",
+      "es": "Zoodles boloñesa de lentejas"
+    },
+    "kcal": 75,
+    "p": 4.0,
+    "c": 9.0,
+    "f": 2.0,
+    "serving": 350.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_312",
+    "names": {
+      "de": "Grüner Smoothie",
+      "en": "Green Smoothie",
+      "sr": "Zeleni smuti",
+      "pt": "Vitamina verde",
+      "ja": "グリーンスムージー",
+      "fr": "Smoothie vert",
+      "it": "Frullato verde",
+      "es": "Batido verde"
+    },
+    "kcal": 45,
+    "p": 1.0,
+    "c": 9.0,
+    "f": 0.2,
+    "serving": 300.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_313",
+    "names": {
+      "de": "Hähnchenbrust (gegrillt)",
+      "en": "Grilled Chicken Breast",
+      "sr": "Grilovana pileća prsa",
+      "pt": "Peito de frango grelhado",
+      "ja": "グリルチキンブレスト",
+      "fr": "Blanc de poulet grillé",
+      "it": "Petto di pollo grigliato",
+      "es": "Pechuga de pollo a la parrilla"
+    },
+    "kcal": 135,
+    "p": 26.0,
+    "c": 0.0,
+    "f": 3.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_314",
+    "names": {
+      "de": "Rindersteak (gegrillt)",
+      "en": "Grilled Beef Steak",
+      "sr": "Grilovani goveđi odrezak",
+      "pt": "Bife de carne bovina grelhado",
+      "ja": "グリルビーフステーキ",
+      "fr": "Steak de bœuf grillé",
+      "it": "Bistecca di manzo grigliata",
+      "es": "Filete de ternera a la parrilla"
+    },
+    "kcal": 210,
+    "p": 25.0,
+    "c": 0.0,
+    "f": 12.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_315",
+    "names": {
+      "de": "Süßkartoffelpüree",
+      "en": "Sweet Potato Mash",
+      "sr": "Pire od slatkog krompira",
+      "pt": "Purê de batata-doce",
+      "ja": "さつまいものマッシュ",
+      "fr": "Purée de patate douce",
+      "it": "Purè di patate dolci",
+      "es": "Puré de batata"
+    },
+    "kcal": 95,
+    "p": 1.5,
+    "c": 20.0,
+    "f": 0.5,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_316",
+    "names": {
+      "de": "Kartoffelpüree",
+      "en": "Mashed Potatoes",
+      "sr": "Pire krompir",
+      "pt": "Purê de batatas",
+      "ja": "マッシュポテト",
+      "fr": "Purée de pommes de terre",
+      "it": "Purè di patate",
+      "es": "Puré de patatas"
+    },
+    "kcal": 85,
+    "p": 2.0,
+    "c": 15.0,
+    "f": 1.5,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegetarian"]
+  },
+  {
+    "id": "meal_317",
+    "names": {
+      "de": "Polenta (gekocht)",
+      "en": "Cooked Polenta",
+      "sr": "Palenta (kuvana)",
+      "pt": "Polenta (cozida)",
+      "ja": "ポレンタ（茹で）",
+      "fr": "Polenta (cuite)",
+      "it": "Polenta (cotta)",
+      "es": "Polenta (cocida)"
+    },
+    "kcal": 85,
+    "p": 2.0,
+    "c": 18.0,
+    "f": 0.5,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_318",
+    "names": {
+      "de": "Protein-Käsekuchen",
+      "en": "Protein Cheesecake",
+      "sr": "Proteinski čizkejk",
+      "pt": "Cheesecake proteico",
+      "ja": "プロテインチーズケーキ",
+      "fr": "Cheesecake protéiné",
+      "it": "Cheesecake proteica",
+      "es": "Tarta de queso proteica"
+    },
+    "kcal": 145,
+    "p": 12.0,
+    "c": 12.0,
+    "f": 5.0,
+    "serving": 150.0,
+    "meal_type": ["snack", "dessert"],
+    "diet_tags": ["vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_319",
+    "names": {
+      "de": "Veganes Protein-Brot",
+      "en": "Vegan Protein Bread",
+      "sr": "Veganski proteinski hleb",
+      "pt": "Pão proteico vegano",
+      "ja": "ヴィーガンプロテインブレッド",
+      "fr": "Pain protéiné végétalien",
+      "it": "Pane proteico vegano",
+      "es": "Pan proteico vegano"
+    },
+    "kcal": 230,
+    "p": 18.0,
+    "c": 14.0,
+    "f": 10.0,
+    "serving": 100.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_320",
+    "names": {
+      "de": "Soja-Schnetzel (gekocht)",
+      "en": "Cooked Soy Chunks",
+      "sr": "Sojini komadići (kuvani)",
+      "pt": "Pedaços de soja (cozidos)",
+      "ja": "大豆ミート（茹で）",
+      "fr": "Émincé de soja (cuit)",
+      "it": "Bocconcini di soia (cotti)",
+      "es": "Bocados de soja (cocidos)"
+    },
+    "kcal": 105,
+    "p": 17.0,
+    "c": 5.0,
+    "f": 1.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
   }
+  
 ]
 
 
