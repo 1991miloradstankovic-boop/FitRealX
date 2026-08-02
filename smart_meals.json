@@ -2621,7 +2621,7 @@
     "p": 80.0,
     "c": 7.0,
     "f": 6.0,
-    "serving": 100.0,
+    "serving": 30.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -2641,7 +2641,7 @@
     "p": 78.0,
     "c": 8.0,
     "f": 2.0,
-    "serving": 100.0,
+    "serving": 30.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -2661,7 +2661,7 @@
     "p": 33.0,
     "c": 32.0,
     "f": 12.0,
-    "serving": 100.0,
+    "serving": 50.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -2681,7 +2681,7 @@
     "p": 10.0,
     "c": 4.5,
     "f": 1.5,
-    "serving": 100.0,
+    "serving": 150.0,
     "meal_type": ["dessert", "snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -2701,7 +2701,7 @@
     "p": 10.0,
     "c": 4.0,
     "f": 1.2,
-    "serving": 100.0,
+    "serving": 150.0,
     "meal_type": ["breakfast", "snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -2721,7 +2721,7 @@
     "p": 6.0,
     "c": 4.5,
     "f": 1.5,
-    "serving": 100.0,
+    "serving": 250.0,
     "meal_type": ["breakfast", "snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -2741,7 +2741,7 @@
     "p": 30.0,
     "c": 38.0,
     "f": 12.0,
-    "serving": 100.0,
+    "serving": 60.0,
     "meal_type": ["breakfast"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -2781,7 +2781,7 @@
     "p": 22.0,
     "c": 25.0,
     "f": 9.0,
-    "serving": 100.0,
+    "serving": 300.0,
     "meal_type": ["lunch", "dinner"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -2801,7 +2801,7 @@
     "p": 18.0,
     "c": 17.0,
     "f": 8.0,
-    "serving": 100.0,
+    "serving": 350.0,
     "meal_type": ["lunch", "dinner"],
     "diet_tags": ["high_protein"]
   },
@@ -2841,7 +2841,7 @@
     "p": 53.0,
     "c": 11.0,
     "f": 4.0,
-    "serving": 100.0,
+    "serving": 50.0,
     "meal_type": ["snack"],
     "diet_tags": ["low_carb", "high_protein"]
   },
@@ -2861,7 +2861,7 @@
     "p": 55.0,
     "c": 3.0,
     "f": 5.0,
-    "serving": 100.0,
+    "serving": 50.0,
     "meal_type": ["snack"],
     "diet_tags": ["low_carb", "high_protein"]
   },
@@ -2881,7 +2881,7 @@
     "p": 8.0,
     "c": 81.0,
     "f": 3.0,
-    "serving": 100.0,
+    "serving": 50.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegan", "vegetarian"]
   },
@@ -2901,7 +2901,7 @@
     "p": 8.0,
     "c": 79.0,
     "f": 3.5,
-    "serving": 100.0,
+    "serving": 50.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegan", "vegetarian"]
   },
@@ -2941,7 +2941,7 @@
     "p": 10.9,
     "c": 0.7,
     "f": 0.2,
-    "serving": 100.0,
+    "serving": 30.0,
     "meal_type": ["breakfast"],
     "diet_tags": ["low_carb", "high_protein"]
   },
@@ -2961,7 +2961,7 @@
     "p": 10.9,
     "c": 0.7,
     "f": 0.2,
-    "serving": 100.0,
+    "serving": 30.0,
     "meal_type": ["breakfast"],
     "diet_tags": ["low_carb", "high_protein"]
   },
@@ -2981,7 +2981,7 @@
     "p": 24.0,
     "c": 0.5,
     "f": 2.0,
-    "serving": 100.0,
+    "serving": 200.0,
     "meal_type": ["lunch", "dinner"],
     "diet_tags": ["low_carb", "high_protein"]
   },
@@ -3022,7 +3022,7 @@
     "p": 85.0,
     "c": 2.5,
     "f": 0.5,
-    "serving": 100.0,
+    "serving": 30.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3042,7 +3042,7 @@
     "p": 76.0,
     "c": 8.0,
     "f": 5.0,
-    "serving": 100.0,
+    "serving": 30.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegan", "vegetarian", "high_protein"]
   },
@@ -3062,7 +3062,7 @@
     "p": 22.0,
     "c": 63.0,
     "f": 5.5,
-    "serving": 100.0,
+    "serving": 30.0,
     "meal_type": ["snack"],
     "diet_tags": ["high_protein"]
   },
@@ -3082,7 +3082,7 @@
     "p": 10.0,
     "c": 22.0,
     "f": 2.5,
-    "serving": 100.0,
+    "serving": 30.0,
     "meal_type": ["snack"],
     "diet_tags": ["high_protein"]
   },
@@ -3102,7 +3102,7 @@
     "p": 25.0,
     "c": 35.0,
     "f": 18.0,
-    "serving": 100.0,
+    "serving": 40.0,
     "meal_type": ["snack", "dessert"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3122,7 +3122,7 @@
     "p": 22.0,
     "c": 31.0,
     "f": 16.0,
-    "serving": 100.0,
+    "serving": 40.0,
     "meal_type": ["dessert", "snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3142,7 +3142,7 @@
     "p": 20.0,
     "c": 29.0,
     "f": 15.0,
-    "serving": 100.0,
+    "serving": 40.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3162,7 +3162,7 @@
     "p": 10.0,
     "c": 4.0,
     "f": 0.8,
-    "serving": 100.0,
+    "serving": 300.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3182,7 +3182,7 @@
     "p": 10.0,
     "c": 8.0,
     "f": 2.0,
-    "serving": 100.0,
+    "serving": 200.0,
     "meal_type": ["dessert", "snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3202,7 +3202,7 @@
     "p": 10.0,
     "c": 9.0,
     "f": 2.0,
-    "serving": 100.0,
+    "serving": 200.0,
     "meal_type": ["dessert", "snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3242,7 +3242,7 @@
     "p": 35.0,
     "c": 32.0,
     "f": 22.0,
-    "serving": 100.0,
+    "serving": 50.0,
     "meal_type": ["snack"],
     "diet_tags": ["high_protein"]
   },
@@ -3262,7 +3262,7 @@
     "p": 26.0,
     "c": 28.0,
     "f": 18.0,
-    "serving": 100.0,
+    "serving": 50.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3322,7 +3322,7 @@
     "p": 36.0,
     "c": 38.0,
     "f": 5.0,
-    "serving": 100.0,
+    "serving": 200.0,
     "meal_type": ["lunch", "dinner"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3342,7 +3342,7 @@
     "p": 35.0,
     "c": 16.0,
     "f": 39.0,
-    "serving": 100.0,
+    "serving": 20.0,
     "meal_type": ["breakfast", "snack"],
     "diet_tags": ["vegan", "vegetarian", "high_protein"]
   },
@@ -3362,7 +3362,7 @@
     "p": 9.5,
     "c": 15.0,
     "f": 2.5,
-    "serving": 100.0,
+    "serving": 200.0,
     "meal_type": ["breakfast"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3382,7 +3382,7 @@
     "p": 8.8,
     "c": 4.8,
     "f": 1.2,
-    "serving": 100.0,
+    "serving": 300.0,
     "meal_type": ["snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   },
@@ -3402,7 +3402,7 @@
     "p": 10.0,
     "c": 5.0,
     "f": 2.0,
-    "serving": 100.0,
+    "serving": 50.0,
     "meal_type": ["dessert", "snack"],
     "diet_tags": ["vegetarian", "high_protein"]
   }
