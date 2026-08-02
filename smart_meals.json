@@ -3405,7 +3405,1008 @@
     "serving": 50.0,
     "meal_type": ["dessert", "snack"],
     "diet_tags": ["vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_171",
+    "names": {
+      "de": "Ananas",
+      "en": "Pineapple",
+      "sr": "Ananas",
+      "pt": "Abacaxi",
+      "ja": "パイナップル",
+      "fr": "Ananas",
+      "it": "Ananas",
+      "es": "Piña"
+    },
+    "kcal": 50,
+    "p": 0.5,
+    "c": 13.0,
+    "f": 0.1,
+    "serving": 150.0,
+    "meal_type": ["snack", "breakfast"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_172",
+    "names": {
+      "de": "Mango",
+      "en": "Mango",
+      "sr": "Mango",
+      "pt": "Manga",
+      "ja": "マンゴー",
+      "fr": "Mangue",
+      "it": "Mango",
+      "es": "Mango"
+    },
+    "kcal": 60,
+    "p": 0.8,
+    "c": 15.0,
+    "f": 0.4,
+    "serving": 150.0,
+    "meal_type": ["snack", "breakfast"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_173",
+    "names": {
+      "de": "Wassermelone",
+      "en": "Watermelon",
+      "sr": "Lubenica",
+      "pt": "Melancia",
+      "ja": "スイカ",
+      "fr": "Pastèque",
+      "it": "Anguria",
+      "es": "Sandía"
+    },
+    "kcal": 30,
+    "p": 0.6,
+    "c": 8.0,
+    "f": 0.2,
+    "serving": 250.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_174",
+    "names": {
+      "de": "Pfirsich",
+      "en": "Peach",
+      "sr": "Breskva",
+      "pt": "Pêssego",
+      "ja": "桃",
+      "fr": "Pêche",
+      "it": "Pesca",
+      "es": "Melocotón"
+    },
+    "kcal": 39,
+    "p": 0.9,
+    "c": 9.0,
+    "f": 0.2,
+    "serving": 150.0,
+    "meal_type": ["snack", "breakfast"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_175",
+    "names": {
+      "de": "Pflaume",
+      "en": "Plum",
+      "sr": "Šljiva",
+      "pt": "Ameixa",
+      "ja": "プラム",
+      "fr": "Prune",
+      "it": "Prugna",
+      "es": "Ciruela"
+    },
+    "kcal": 46,
+    "p": 0.7,
+    "c": 11.0,
+    "f": 0.2,
+    "serving": 100.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_176",
+    "names": {
+      "de": "Zwiebel",
+      "en": "Onion",
+      "sr": "Luk",
+      "pt": "Cebola",
+      "ja": "玉ねぎ",
+      "fr": "Oignon",
+      "it": "Cipolla",
+      "es": "Cebolla"
+    },
+    "kcal": 40,
+    "p": 1.1,
+    "c": 9.0,
+    "f": 0.1,
+    "serving": 50.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_177",
+    "names": {
+      "de": "Knoblauch",
+      "en": "Garlic",
+      "sr": "Beli luk",
+      "pt": "Alho",
+      "ja": "にんにく",
+      "fr": "Ail",
+      "it": "Aglio",
+      "es": "Ajo"
+    },
+    "kcal": 149,
+    "p": 6.4,
+    "c": 33.0,
+    "f": 0.5,
+    "serving": 5.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_178",
+    "names": {
+      "de": "Aubergine",
+      "en": "Eggplant",
+      "sr": "Plavi patlidžan",
+      "pt": "Berinjela",
+      "ja": "ナス",
+      "fr": "Aubergine",
+      "it": "Melanzana",
+      "es": "Berenjena"
+    },
+    "kcal": 25,
+    "p": 1.0,
+    "c": 6.0,
+    "f": 0.2,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_179",
+    "names": {
+      "de": "Kürbis",
+      "en": "Pumpkin",
+      "sr": "Bundeva",
+      "pt": "Abóbora",
+      "ja": "かぼちゃ",
+      "fr": "Citrouille",
+      "it": "Zucca",
+      "es": "Calabaza"
+    },
+    "kcal": 26,
+    "p": 1.0,
+    "c": 6.0,
+    "f": 0.1,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_180",
+    "names": {
+      "de": "Spargel",
+      "en": "Asparagus",
+      "sr": "Špargla",
+      "pt": "Aspargos",
+      "ja": "アスパラガス",
+      "fr": "Asperge",
+      "it": "Asparago",
+      "es": "Espárragos"
+    },
+    "kcal": 20,
+    "p": 2.2,
+    "c": 4.0,
+    "f": 0.1,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_181",
+    "names": {
+      "de": "Mandelmilch (ungesüßt)",
+      "en": "Unsweetened Almond Milk",
+      "sr": "Bademovo mleko (nezaslađeno)",
+      "pt": "Leite de amêndoa (sem açúcar)",
+      "ja": "アーモンドミルク（無糖）",
+      "fr": "Lait d'amande (sans sucre)",
+      "it": "Latte di mandorla (senza zucchero)",
+      "es": "Leche de almendras (sin azúcar)"
+    },
+    "kcal": 15,
+    "p": 0.5,
+    "c": 0.1,
+    "f": 1.2,
+    "serving": 250.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_182",
+    "names": {
+      "de": "Hafermilch",
+      "en": "Oat Milk",
+      "sr": "Ovseno mleko",
+      "pt": "Leite de aveia",
+      "ja": "オーツミルク",
+      "fr": "Lait d'avoine",
+      "it": "Latte di avena",
+      "es": "Leche de avena"
+    },
+    "kcal": 45,
+    "p": 1.0,
+    "c": 7.0,
+    "f": 1.5,
+    "serving": 250.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_183",
+    "names": {
+      "de": "Sojamilch (ungesüßt)",
+      "en": "Unsweetened Soy Milk",
+      "sr": "Sojino mleko (nezaslađeno)",
+      "pt": "Leite de soja (sem açúcar)",
+      "ja": "豆乳（無糖）",
+      "fr": "Lait de soja (sans sucre)",
+      "it": "Latte di soia (senza zucchero)",
+      "es": "Leche de soja (sin azúcar)"
+    },
+    "kcal": 33,
+    "p": 3.3,
+    "c": 0.5,
+    "f": 1.8,
+    "serving": 250.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_184",
+    "names": {
+      "de": "Parmesan",
+      "en": "Parmesan Cheese",
+      "sr": "Parmezan",
+      "pt": "Parmesão",
+      "ja": "パルメザンチーズ",
+      "fr": "Parmesan",
+      "it": "Parmigiano",
+      "es": "Parmesano"
+    },
+    "kcal": 392,
+    "p": 33.0,
+    "c": 3.2,
+    "f": 28.0,
+    "serving": 20.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_185",
+    "names": {
+      "de": "Feta",
+      "en": "Feta Cheese",
+      "sr": "Feta sir",
+      "pt": "Queijo Feta",
+      "ja": "フェタチーズ",
+      "fr": "Feta",
+      "it": "Feta",
+      "es": "Queso Feta"
+    },
+    "kcal": 264,
+    "p": 14.0,
+    "c": 1.5,
+    "f": 21.0,
+    "serving": 50.0,
+    "meal_type": ["lunch", "dinner", "breakfast"],
+    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_186",
+    "names": {
+      "de": "Quinoa (gekocht)",
+      "en": "Quinoa (Cooked)",
+      "sr": "Kinoa (kuvana)",
+      "pt": "Quinoa (cozida)",
+      "ja": "キヌア（茹で）",
+      "fr": "Quinoa (cuit)",
+      "it": "Quinoa (cotta)",
+      "es": "Quinoa (cocida)"
+    },
+    "kcal": 120,
+    "p": 4.4,
+    "c": 21.3,
+    "f": 1.9,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_187",
+    "names": {
+      "de": "Couscous (gekocht)",
+      "en": "Couscous (Cooked)",
+      "sr": "Kuskus (kuvan)",
+      "pt": "Cuscuz (cozido)",
+      "ja": "クスクス（茹で）",
+      "fr": "Couscous (cuit)",
+      "it": "Couscous (cotto)",
+      "es": "Cuscús (cocido)"
+    },
+    "kcal": 112,
+    "p": 3.8,
+    "c": 23.0,
+    "f": 0.2,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_188",
+    "names": {
+      "de": "Bulgur (gekocht)",
+      "en": "Bulgur (Cooked)",
+      "sr": "Bulgur (kuvan)",
+      "pt": "Trigo Bulgur (cozido)",
+      "ja": "ブルグル（茹で）",
+      "fr": "Boulgour (cuit)",
+      "it": "Bulgur (cotto)",
+      "es": "Bulgur (cocido)"
+    },
+    "kcal": 83,
+    "p": 3.1,
+    "c": 18.6,
+    "f": 0.2,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_189",
+    "names": {
+      "de": "Linsen (gekocht)",
+      "en": "Lentils (Cooked)",
+      "sr": "Sočivo (kuvano)",
+      "pt": "Lentilhas (cozidas)",
+      "ja": "レンズ豆（茹で）",
+      "fr": "Lentilles (cuites)",
+      "it": "Lenticchie (cotte)",
+      "es": "Lentejas (cocidas)"
+    },
+    "kcal": 116,
+    "p": 9.0,
+    "c": 20.0,
+    "f": 0.4,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_190",
+    "names": {
+      "de": "Kichererbsen (aus der Dose)",
+      "en": "Chickpeas (Canned)",
+      "sr": "Leblebije (iz konzerve)",
+      "pt": "Grão-de-bico (enlatado)",
+      "ja": "ひよこ豆（缶詰）",
+      "fr": "Pois chiches (en conserve)",
+      "it": "Ceci (in scatola)",
+      "es": "Garbanzos (enlatados)"
+    },
+    "kcal": 119,
+    "p": 7.0,
+    "c": 17.0,
+    "f": 1.5,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_191",
+    "names": {
+      "de": "Rinderhackfleisch (5% Fett)",
+      "en": "Lean Ground Beef (5% Fat)",
+      "sr": "Mlevena govedina (5% masti)",
+      "pt": "Carne bovina moída (5% gordura)",
+      "ja": "牛ひき肉（脂肪5%）",
+      "fr": "Bœuf haché (5% MG)",
+      "it": "Carne macinata di manzo (5% grassi)",
+      "es": "Carne picada de ternera (5% grasa)"
+    },
+    "kcal": 137,
+    "p": 21.0,
+    "c": 0.0,
+    "f": 5.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_192",
+    "names": {
+      "de": "Schweinefilet",
+      "en": "Pork Tenderloin",
+      "sr": "Svinjski file",
+      "pt": "Filé mignon suíno",
+      "ja": "豚ヒレ肉",
+      "fr": "Filet mignon de porc",
+      "it": "Filetto di maiale",
+      "es": "Solomillo de cerdo"
+    },
+    "kcal": 143,
+    "p": 26.0,
+    "c": 0.0,
+    "f": 3.5,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_193",
+    "names": {
+      "de": "Lammkotelett",
+      "en": "Lamb Chop",
+      "sr": "Jagnjeći kotlet",
+      "pt": "Costeleta de cordeiro",
+      "ja": "ラムチョップ",
+      "fr": "Côtelette d'agneau",
+      "it": "Costoletta di agnello",
+      "es": "Chuleta de cordero"
+    },
+    "kcal": 277,
+    "p": 17.0,
+    "c": 0.0,
+    "f": 23.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_194",
+    "names": {
+      "de": "Entenbrust",
+      "en": "Duck Breast",
+      "sr": "Pačja prsa",
+      "pt": "Peito de pato",
+      "ja": "鴨胸肉",
+      "fr": "Magret de canard",
+      "it": "Petto d'anatra",
+      "es": "Magret de pato"
+    },
+    "kcal": 201,
+    "p": 20.0,
+    "c": 0.0,
+    "f": 13.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_195",
+    "names": {
+      "de": "Speck",
+      "en": "Bacon",
+      "sr": "Slanina",
+      "pt": "Bacon",
+      "ja": "ベーコン",
+      "fr": "Bacon",
+      "it": "Pancetta",
+      "es": "Bacon"
+    },
+    "kcal": 458,
+    "p": 14.0,
+    "c": 1.5,
+    "f": 44.0,
+    "serving": 30.0,
+    "meal_type": ["breakfast", "dinner"],
+    "diet_tags": ["standard", "low_carb"]
+  },
+  {
+    "id": "meal_196",
+    "names": {
+      "de": "Tintenfisch (gekocht)",
+      "en": "Squid (Cooked)",
+      "sr": "Lignje (kuvane)",
+      "pt": "Lula (cozida)",
+      "ja": "イカ（茹で）",
+      "fr": "Calamar (cuit)",
+      "it": "Calamaro (cotto)",
+      "es": "Calamar (cocido)"
+    },
+    "kcal": 92,
+    "p": 16.0,
+    "c": 3.0,
+    "f": 1.5,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["pescatarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_197",
+    "names": {
+      "de": "Muscheln",
+      "en": "Mussels",
+      "sr": "Dagnje",
+      "pt": "Mexilhões",
+      "ja": "ムール貝",
+      "fr": "Moules",
+      "it": "Cozze",
+      "es": "Mejillones"
+    },
+    "kcal": 86,
+    "p": 12.0,
+    "c": 4.0,
+    "f": 2.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["pescatarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_198",
+    "names": {
+      "de": "Räucherlachs",
+      "en": "Smoked Salmon",
+      "sr": "Dimljeni losos",
+      "pt": "Salmão defumado",
+      "ja": "スモークサーモン",
+      "fr": "Saumon fumé",
+      "it": "Salmone affumicato",
+      "es": "Salmón ahumado"
+    },
+    "kcal": 142,
+    "p": 20.0,
+    "c": 0.0,
+    "f": 7.0,
+    "serving": 50.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["pescatarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_199",
+    "names": {
+      "de": "Forelle",
+      "en": "Trout",
+      "sr": "Pastrmka",
+      "pt": "Truta",
+      "ja": "マス",
+      "fr": "Truite",
+      "it": "Trota",
+      "es": "Trucha"
+    },
+    "kcal": 148,
+    "p": 20.0,
+    "c": 0.0,
+    "f": 7.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["pescatarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_200",
+    "names": {
+      "de": "Sardinen (in Öl)",
+      "en": "Sardines (in Oil)",
+      "sr": "Sardine (u ulju)",
+      "pt": "Sardinhas (em óleo)",
+      "ja": "イワシ（油漬け）",
+      "fr": "Sardines (à l'huile)",
+      "it": "Sardine (sott'olio)",
+      "es": "Sardinas (en aceite)"
+    },
+    "kcal": 208,
+    "p": 24.0,
+    "c": 0.0,
+    "f": 11.0,
+    "serving": 100.0,
+    "meal_type": ["lunch", "snack"],
+    "diet_tags": ["pescatarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_201",
+    "names": {
+      "de": "Chiasamen",
+      "en": "Chia Seeds",
+      "sr": "Čia semenke",
+      "pt": "Sementes de chia",
+      "ja": "チアシード",
+      "fr": "Graines de chia",
+      "it": "Semi di chia",
+      "es": "Semillas de chía"
+    },
+    "kcal": 486,
+    "p": 17.0,
+    "c": 42.0,
+    "f": 31.0,
+    "serving": 15.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_202",
+    "names": {
+      "de": "Leinsamen",
+      "en": "Flaxseeds",
+      "sr": "Laneno seme",
+      "pt": "Sementes de linhaça",
+      "ja": "フラックスシード",
+      "fr": "Graines de lin",
+      "it": "Semi di lino",
+      "es": "Semillas de lino"
+    },
+    "kcal": 534,
+    "p": 18.0,
+    "c": 29.0,
+    "f": 42.0,
+    "serving": 15.0,
+    "meal_type": ["breakfast", "snack"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_203",
+    "names": {
+      "de": "Kürbiskerne",
+      "en": "Pumpkin Seeds",
+      "sr": "Semenke bundeve",
+      "pt": "Sementes de abóbora",
+      "ja": "かぼちゃの種",
+      "fr": "Graines de courge",
+      "it": "Semi di zucca",
+      "es": "Semillas de calabaza"
+    },
+    "kcal": 559,
+    "p": 30.0,
+    "c": 10.0,
+    "f": 49.0,
+    "serving": 25.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_204",
+    "names": {
+      "de": "Sonnenblumenkerne",
+      "en": "Sunflower Seeds",
+      "sr": "Semenke suncokreta",
+      "pt": "Sementes de girassol",
+      "ja": "ひまわりの種",
+      "fr": "Graines de tournesol",
+      "it": "Semi di girasole",
+      "es": "Semillas de girasol"
+    },
+    "kcal": 584,
+    "p": 21.0,
+    "c": 20.0,
+    "f": 51.0,
+    "serving": 25.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_205",
+    "names": {
+      "de": "Pistazien",
+      "en": "Pistachios",
+      "sr": "Pistaći",
+      "pt": "Pistaches",
+      "ja": "ピスタチオ",
+      "fr": "Pistaches",
+      "it": "Pistacchi",
+      "es": "Pistachos"
+    },
+    "kcal": 562,
+    "p": 20.0,
+    "c": 28.0,
+    "f": 45.0,
+    "serving": 30.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian", "high_protein"]
+  },
+  {
+    "id": "meal_206",
+    "names": {
+      "de": "Dunkle Schokolade (70%)",
+      "en": "Dark Chocolate (70%)",
+      "sr": "Crna čokolada (70%)",
+      "pt": "Chocolate amargo (70%)",
+      "ja": "ダークチョコレート (70%)",
+      "fr": "Chocolat noir (70%)",
+      "it": "Cioccolato fondente (70%)",
+      "es": "Chocolate negro (70%)"
+    },
+    "kcal": 598,
+    "p": 8.0,
+    "c": 34.0,
+    "f": 43.0,
+    "serving": 20.0,
+    "meal_type": ["snack", "dessert"],
+    "diet_tags": ["vegetarian"]
+  },
+  {
+    "id": "meal_207",
+    "names": {
+      "de": "Gummibärchen",
+      "en": "Gummy Bears",
+      "sr": "Gumene bombone",
+      "pt": "Ursinhos de goma",
+      "ja": "グミベア",
+      "fr": "Oursons en gélatine",
+      "it": "Orsetti gommosi",
+      "es": "Ositos de goma"
+    },
+    "kcal": 343,
+    "p": 6.0,
+    "c": 77.0,
+    "f": 0.1,
+    "serving": 40.0,
+    "meal_type": ["snack", "dessert"],
+    "diet_tags": ["standard"]
+  },
+  {
+    "id": "meal_208",
+    "names": {
+      "de": "Popcorn (ohne Fett)",
+      "en": "Popcorn (Air-popped)",
+      "sr": "Kokice (bez ulja)",
+      "pt": "Pipoca (sem óleo)",
+      "ja": "ポップコーン（ノンオイル）",
+      "fr": "Pop-corn (sans huile)",
+      "it": "Popcorn (senza olio)",
+      "es": "Palomitas (sin aceite)"
+    },
+    "kcal": 387,
+    "p": 13.0,
+    "c": 78.0,
+    "f": 5.0,
+    "serving": 30.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_209",
+    "names": {
+      "de": "Kartoffelchips",
+      "en": "Potato Chips",
+      "sr": "Čips od krompira",
+      "pt": "Batata frita de pacote",
+      "ja": "ポテトチップス",
+      "fr": "Chips",
+      "it": "Patatine",
+      "es": "Patatas fritas de bolsa"
+    },
+    "kcal": 536,
+    "p": 6.0,
+    "c": 53.0,
+    "f": 35.0,
+    "serving": 40.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegetarian"]
+  },
+  {
+    "id": "meal_210",
+    "names": {
+      "de": "Brezel",
+      "en": "Pretzel",
+      "sr": "Pereca",
+      "pt": "Pretzel",
+      "ja": "プレッツェル",
+      "fr": "Bretzel",
+      "it": "Pretzel",
+      "es": "Pretzel"
+    },
+    "kcal": 338,
+    "p": 10.0,
+    "c": 68.0,
+    "f": 2.0,
+    "serving": 85.0,
+    "meal_type": ["snack"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_211",
+    "names": {
+      "de": "Sushi (Maki)",
+      "en": "Sushi (Maki)",
+      "sr": "Suši (Maki)",
+      "pt": "Sushi (Maki)",
+      "ja": "巻き寿司",
+      "fr": "Sushi (Maki)",
+      "it": "Sushi (Maki)",
+      "es": "Sushi (Maki)"
+    },
+    "kcal": 130,
+    "p": 4.0,
+    "c": 28.0,
+    "f": 0.5,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["pescatarian"]
+  },
+  {
+    "id": "meal_212",
+    "names": {
+      "de": "Tomaten-Mozzarella-Salat (Caprese)",
+      "en": "Caprese Salad",
+      "sr": "Kapreze salata",
+      "pt": "Salada Caprese",
+      "ja": "カプレーゼサラダ",
+      "fr": "Salade Caprese",
+      "it": "Insalata Caprese",
+      "es": "Ensalada Caprese"
+    },
+    "kcal": 150,
+    "p": 9.0,
+    "c": 3.0,
+    "f": 11.0,
+    "serving": 200.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_213",
+    "names": {
+      "de": "Rindercarpaccio",
+      "en": "Beef Carpaccio",
+      "sr": "Goveđi karpaćo",
+      "pt": "Carpaccio de carne",
+      "ja": "牛カルパッチョ",
+      "fr": "Carpaccio de bœuf",
+      "it": "Carpaccio di manzo",
+      "es": "Carpaccio de ternera"
+    },
+    "kcal": 130,
+    "p": 22.0,
+    "c": 0.5,
+    "f": 4.5,
+    "serving": 100.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_214",
+    "names": {
+      "de": "Schweinebraten",
+      "en": "Roast Pork",
+      "sr": "Svinjsko pečenje",
+      "pt": "Carne de porco assada",
+      "ja": "ローストポーク",
+      "fr": "Rôti de porc",
+      "it": "Arrosto di maiale",
+      "es": "Cerdo asado"
+    },
+    "kcal": 240,
+    "p": 25.0,
+    "c": 1.0,
+    "f": 15.0,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["standard", "low_carb", "high_protein"]
+  },
+  {
+    "id": "meal_215",
+    "names": {
+      "de": "Miso-Suppe",
+      "en": "Miso Soup",
+      "sr": "Miso supa",
+      "pt": "Sopa de missô",
+      "ja": "味噌汁",
+      "fr": "Soupe miso",
+      "it": "Zuppa di miso",
+      "es": "Sopa de miso"
+    },
+    "kcal": 25,
+    "p": 2.5,
+    "c": 3.0,
+    "f": 0.8,
+    "serving": 250.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_216",
+    "names": {
+      "de": "Rosenkohl",
+      "en": "Brussels Sprouts",
+      "sr": "Prokelj",
+      "pt": "Couve-de-bruxelas",
+      "ja": "芽キャベツ",
+      "fr": "Choux de Bruxelles",
+      "it": "Cavoletti di Bruxelles",
+      "es": "Coles de Bruselas"
+    },
+    "kcal": 43,
+    "p": 3.4,
+    "c": 9.0,
+    "f": 0.3,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_217",
+    "names": {
+      "de": "Grünkohl",
+      "en": "Kale",
+      "sr": "Kelj",
+      "pt": "Couve kale",
+      "ja": "ケール",
+      "fr": "Chou frisé",
+      "it": "Cavolo riccio",
+      "es": "Col rizada"
+    },
+    "kcal": 49,
+    "p": 4.3,
+    "c": 8.8,
+    "f": 0.9,
+    "serving": 150.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_218",
+    "names": {
+      "de": "Rote Bete",
+      "en": "Beetroot",
+      "sr": "Cvekla",
+      "pt": "Beterraba",
+      "ja": "ビーツ",
+      "fr": "Betterave",
+      "it": "Barbabietola",
+      "es": "Remolacha"
+    },
+    "kcal": 43,
+    "p": 1.6,
+    "c": 9.6,
+    "f": 0.2,
+    "serving": 100.0,
+    "meal_type": ["lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian"]
+  },
+  {
+    "id": "meal_219",
+    "names": {
+      "de": "Radieschen",
+      "en": "Radish",
+      "sr": "Rotkvica",
+      "pt": "Rabanete",
+      "ja": "ラディッシュ",
+      "fr": "Radis",
+      "it": "Ravanello",
+      "es": "Rábano"
+    },
+    "kcal": 16,
+    "p": 0.7,
+    "c": 3.4,
+    "f": 0.1,
+    "serving": 50.0,
+    "meal_type": ["snack", "lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
+  },
+  {
+    "id": "meal_220",
+    "names": {
+      "de": "Sellerie",
+      "en": "Celery",
+      "sr": "Celer",
+      "pt": "Aipo",
+      "ja": "セロリ",
+      "fr": "Céleri",
+      "it": "Sedano",
+      "es": "Apio"
+    },
+    "kcal": 14,
+    "p": 0.7,
+    "c": 3.0,
+    "f": 0.2,
+    "serving": 50.0,
+    "meal_type": ["snack", "lunch", "dinner"],
+    "diet_tags": ["vegan", "vegetarian", "low_carb"]
   }
-
-
 ]
+
+
+
