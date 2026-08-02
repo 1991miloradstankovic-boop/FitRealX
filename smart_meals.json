@@ -4027,26 +4027,7 @@
     "meal_type": ["snack"],
     "diet_tags": ["vegan", "vegetarian"]
   },
-  {
-    "id": "meal_209",
-    "names": {
-      "de": "Kartoffelchips",
-      "en": "Potato Chips",
-      "sr": "Čips od krompira",
-      "pt": "Batata frita de pacote",
-      "ja": "ポテトチップス",
-      "fr": "Chips",
-      "it": "Patatine",
-      "es": "Patatas fritas de bolsa"
-    },
-    "kcal": 536,
-    "p": 6.0,
-    "c": 53.0,
-    "f": 35.0,
-    "serving": 40.0,
-    "meal_type": ["snack"],
-    "diet_tags": ["vegetarian"]
-  },
+  
   {
     "id": "meal_210",
     "names": {
