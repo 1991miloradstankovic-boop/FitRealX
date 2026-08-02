@@ -1119,7 +1119,7 @@
     "c": 20.0,
     "f": 50.0,
     "serving": 30.0,
-    "meal_type": ["breakfast", "snack"],
+    "meal_type": ["snack"],
     "diet_tags": ["vegan", "vegetarian", "high_protein"]
   },
   {
@@ -3303,7 +3303,7 @@
     "c": 16.0,
     "f": 39.0,
     "serving": 20.0,
-    "meal_type": ["breakfast", "snack"],
+    "meal_type": ["snack"],
     "diet_tags": ["vegan", "vegetarian", "high_protein"]
   },
   {
@@ -3586,26 +3586,7 @@
     "meal_type": ["breakfast", "snack"],
     "diet_tags": ["vegan", "vegetarian", "low_carb", "high_protein"]
   },
-  {
-    "id": "meal_184",
-    "names": {
-      "de": "Parmesan",
-      "en": "Parmesan Cheese",
-      "sr": "Parmezan",
-      "pt": "Parmesão",
-      "ja": "パルメザンチーズ",
-      "fr": "Parmesan",
-      "it": "Parmigiano",
-      "es": "Parmesano"
-    },
-    "kcal": 392,
-    "p": 33.0,
-    "c": 3.2,
-    "f": 28.0,
-    "serving": 20.0,
-    "meal_type": ["lunch", "dinner"],
-    "diet_tags": ["vegetarian", "low_carb", "high_protein"]
-  },
+ 
   {
     "id": "meal_185",
     "names": {
